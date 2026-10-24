@@ -228,8 +228,8 @@ export default function App() {
       {/* Footer */}
       <footer className="mt-auto border-t border-stone-200 bg-white/80 py-4 text-center text-xs text-stone-500">
         <div className="max-w-6xl mx-auto px-4 flex flex-col sm:flex-row items-center justify-between gap-2">
-          <span>HanziPWA • Architettura offline servita da fogli JSON locali</span>
-          <span className="text-stone-400">Nessuna IA o server esterno richiesto</span>
+          <span>HanziPWA 中国</span>
+          <span className="text-stone-400">汉字专业版</span>
         </div>
       </footer>
     </div>
