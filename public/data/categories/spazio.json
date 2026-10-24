@@ -1,0 +1,173 @@
+[
+  {
+    "id": "da",
+    "char": "大",
+    "pinyin": "dà",
+    "meaning": "grande / ampio",
+    "category": "spazio",
+    "explanation": "Raffigura una persona (人) a braccia spalancate e gambe divaricate per mostrare la massima estensione possibile o per indicare qualcosa di colossale e importante.",
+    "mnemonic": "Una persona che apre le braccia al massimo per dire 'è così grande!'.",
+    "radical": "大",
+    "strokesCount": 3,
+    "level": 1,
+    "strokes": [
+      "M60 110 L240 110",
+      "M150 50 Q135 140 80 230",
+      "M140 115 Q170 170 225 230"
+    ],
+    "words": [
+      {
+        "hanzi": "大家",
+        "pinyin": "dàjiā",
+        "translation": "tutti / la comunità"
+      },
+      {
+        "hanzi": "大学",
+        "pinyin": "dàxué",
+        "translation": "università (grande studio)"
+      },
+      {
+        "hanzi": "大事",
+        "pinyin": "dàshì",
+        "translation": "grande evento / cosa importante"
+      }
+    ]
+  },
+  {
+    "id": "xiao",
+    "char": "小",
+    "pinyin": "xiǎo",
+    "meaning": "piccolo / ridotto",
+    "category": "spazio",
+    "explanation": "In origine rappresentava tre piccoli granelli di sabbia o gocce d'acqua separate, che indicavano quantità minute o dimensioni ridotte rispetto all'ordinario.",
+    "mnemonic": "Un tronco centrale diviso da due piccoli frammenti ai lati.",
+    "radical": "小",
+    "strokesCount": 3,
+    "level": 1,
+    "strokes": [
+      "M150 50 L150 200 Q150 225 130 215",
+      "M110 110 Q95 140 80 160",
+      "M190 110 Q205 140 220 160"
+    ],
+    "words": [
+      {
+        "hanzi": "小心",
+        "pinyin": "xiǎoxīn",
+        "translation": "attenzione / prudenza (lett. piccolo cuore)"
+      },
+      {
+        "hanzi": "小吃",
+        "pinyin": "xiǎochī",
+        "translation": "spuntino / cibo da strada"
+      },
+      {
+        "hanzi": "小鸟",
+        "pinyin": "xiǎoniǎo",
+        "translation": "uccellino"
+      }
+    ]
+  },
+  {
+    "id": "shang",
+    "char": "上",
+    "pinyin": "shàng",
+    "meaning": "sopra / salire / alto",
+    "category": "spazio",
+    "explanation": "Carattere ideografico indicativo: una linea base orizzontale in basso con un'asta verticale e un trattino orientato verso l'alto per indicare ciò che sta 'al di sopra'.",
+    "mnemonic": "Una freccia stilizzata che punta e sorge verso il cielo.",
+    "radical": "一",
+    "strokesCount": 3,
+    "level": 1,
+    "strokes": [
+      "M150 45 L150 225",
+      "M150 135 L220 135",
+      "M60 225 L240 225"
+    ],
+    "words": [
+      {
+        "hanzi": "上班",
+        "pinyin": "shàngbān",
+        "translation": "andare al lavoro"
+      },
+      {
+        "hanzi": "上午",
+        "pinyin": "shàngwǔ",
+        "translation": "mattina (prima di mezzogiorno)"
+      },
+      {
+        "hanzi": "上车",
+        "pinyin": "shàngchē",
+        "translation": "salire sul veicolo / salire a bordo"
+      }
+    ]
+  },
+  {
+    "id": "xia",
+    "char": "下",
+    "pinyin": "xià",
+    "meaning": "sotto / scendere / basso",
+    "category": "spazio",
+    "explanation": "Contrario simmetrico di 'sopra': una linea orizzontale alta con un tratto e un punto orientati verso il basso a indicare la direzione inferiore.",
+    "mnemonic": "Una goccia che pende verso il basso sotto il tetto.",
+    "radical": "一",
+    "strokesCount": 3,
+    "level": 1,
+    "strokes": [
+      "M60 70 L240 70",
+      "M150 70 L150 240",
+      "M150 145 L215 195"
+    ],
+    "words": [
+      {
+        "hanzi": "下雨",
+        "pinyin": "xiàyǔ",
+        "translation": "piovere (scende la pioggia)"
+      },
+      {
+        "hanzi": "下班",
+        "pinyin": "xiàbān",
+        "translation": "staccare dal lavoro"
+      },
+      {
+        "hanzi": "下午",
+        "pinyin": "xiàwǔ",
+        "translation": "pomeriggio"
+      }
+    ]
+  },
+  {
+    "id": "zhong",
+    "char": "中",
+    "pinyin": "zhōng",
+    "meaning": "centro / mezzo / Cina",
+    "category": "spazio",
+    "explanation": "Raffigura un bersaglio rettangolare trafitto esattamente al centro da una freccia verticale. È anche la prima sillaba del nome della Cina (中国, Zhōngguó = Regno del Centro).",
+    "mnemonic": "Una freccia dritta che colpisce il centro del cerchio/scatola.",
+    "radical": "丨",
+    "strokesCount": 4,
+    "level": 1,
+    "strokes": [
+      "M80 90 L80 190",
+      "M80 90 L220 90 L220 190",
+      "M80 190 L220 190",
+      "M150 40 L150 250"
+    ],
+    "words": [
+      {
+        "hanzi": "中国",
+        "pinyin": "Zhōngguó",
+        "translation": "Cina (il Paese di Mezzo)"
+      },
+      {
+        "hanzi": "中文",
+        "pinyin": "Zhōngwén",
+        "translation": "lingua cinese scritta"
+      },
+      {
+        "hanzi": "中间",
+        "pinyin": "zhōngjiān",
+        "translation": "in mezzo / al centro"
+      }
+    ]
+  }
+]

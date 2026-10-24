@@ -1,0 +1,116 @@
+[
+  {
+    "id": "cha",
+    "char": "茶",
+    "pinyin": "chá",
+    "meaning": "tè / foglia di tè",
+    "category": "cibo",
+    "explanation": "Composto dal radicale dell'erba (艹) in cima, una tettoia stilizzata (人) e un albero (木) in basso. Raffigura l'uomo che coglie e lavora le tenere foglie verdi dagli arbusti di tè.",
+    "mnemonic": "Erba e foglie in alto raccolte da persone tra gli alberi.",
+    "radical": "艹",
+    "strokesCount": 9,
+    "level": 1,
+    "strokes": [
+      "M70 70 L230 70",
+      "M110 40 L110 80",
+      "M190 40 L190 80",
+      "M150 90 L80 140",
+      "M150 90 L220 140",
+      "M70 170 L230 170",
+      "M150 140 L150 240",
+      "M150 170 Q110 210 70 240",
+      "M150 170 Q190 210 230 240"
+    ],
+    "words": [
+      {
+        "hanzi": "绿茶",
+        "pinyin": "lǜchá",
+        "translation": "tè verde"
+      },
+      {
+        "hanzi": "红茶",
+        "pinyin": "hóngchá",
+        "translation": "tè nero (tè rosso in Cina)"
+      },
+      {
+        "hanzi": "喝茶",
+        "pinyin": "hēchá",
+        "translation": "bere il tè"
+      }
+    ]
+  },
+  {
+    "id": "mi_rice",
+    "char": "米",
+    "pinyin": "mǐ",
+    "meaning": "riso / chicco / metro",
+    "category": "cibo",
+    "explanation": "Antico pittogramma che raffigura una spiga di riso matura con chicchi sparsi attorno alla croce del fusto. È l'alimento base e l'essenza vitale della civiltà cinese.",
+    "mnemonic": "Una spiga con chicchi di riso che brillano nei quattro angoli.",
+    "radical": "米",
+    "strokesCount": 6,
+    "level": 1,
+    "strokes": [
+      "M100 80 L125 110",
+      "M200 80 L175 110",
+      "M60 140 L240 140",
+      "M150 50 L150 240",
+      "M150 140 Q110 190 70 230",
+      "M150 140 Q190 190 230 230"
+    ],
+    "words": [
+      {
+        "hanzi": "米饭",
+        "pinyin": "mǐfàn",
+        "translation": "riso cotto a vapore"
+      },
+      {
+        "hanzi": "大米",
+        "pinyin": "dàmǐ",
+        "translation": "riso crudo in chicchi"
+      },
+      {
+        "hanzi": "玉米",
+        "pinyin": "yùmǐ",
+        "translation": "mais (grano di giada)"
+      }
+    ]
+  },
+  {
+    "id": "rou",
+    "char": "肉",
+    "pinyin": "ròu",
+    "meaning": "carne / polpa",
+    "category": "cibo",
+    "explanation": "In origine raffigurava un pezzo di carne tagliata fresca con le striature delle fibre muscolari e del grasso visibili all'interno.",
+    "mnemonic": "Una costata di carne con le striature delle fibre interne.",
+    "radical": "肉",
+    "strokesCount": 6,
+    "level": 2,
+    "strokes": [
+      "M80 60 L80 230",
+      "M80 60 L220 60 L220 230 Q220 240 200 235",
+      "M150 90 L120 135",
+      "M120 135 L170 135",
+      "M150 155 L120 200",
+      "M120 200 L170 200"
+    ],
+    "words": [
+      {
+        "hanzi": "牛肉",
+        "pinyin": "niúròu",
+        "translation": "carne di manzo"
+      },
+      {
+        "hanzi": "猪肉",
+        "pinyin": "zhūròu",
+        "translation": "carne di maiale"
+      },
+      {
+        "hanzi": "肌肉",
+        "pinyin": "jīròu",
+        "translation": "muscolo corporeo"
+      }
+    ]
+  }
+]

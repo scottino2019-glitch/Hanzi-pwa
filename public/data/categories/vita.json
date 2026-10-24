@@ -1,0 +1,139 @@
+[
+  {
+    "id": "men",
+    "char": "门",
+    "pinyin": "mén",
+    "meaning": "porta / portale / settore",
+    "category": "vita",
+    "explanation": "Rappresenta i due battenti di un portone d'ingresso tradizionale cinese. Nella scrittura corsiva e semplificata l'arco e i cardini sono riassunti in una struttura aperta ed elegante.",
+    "mnemonic": "L'architrave e il battente della porta d'ingresso.",
+    "radical": "门",
+    "strokesCount": 3,
+    "level": 1,
+    "strokes": [
+      "M100 70 L90 100",
+      "M90 100 L90 230",
+      "M90 100 L200 100 L200 230 Q200 240 180 230"
+    ],
+    "words": [
+      {
+        "hanzi": "开门",
+        "pinyin": "kāimén",
+        "translation": "aprire la porta / aprire l'attività"
+      },
+      {
+        "hanzi": "关门",
+        "pinyin": "guānmén",
+        "translation": "chiudere la porta"
+      },
+      {
+        "hanzi": "名门",
+        "pinyin": "míngmén",
+        "translation": "famiglia illustre"
+      }
+    ]
+  },
+  {
+    "id": "che",
+    "char": "车",
+    "pinyin": "chē",
+    "meaning": "veicolo / carro / automobile",
+    "category": "vita",
+    "explanation": "Vista aerea dall'alto di un antico carro da guerra imperiale: le due ruote laterali collegate dall'asse centrale e la cabina per il conducente.",
+    "mnemonic": "Un carro visto dall'alto con le due ruote e l'asse motrice.",
+    "radical": "车",
+    "strokesCount": 4,
+    "level": 1,
+    "strokes": [
+      "M75 80 L225 80",
+      "M100 125 L200 125 L180 180 L80 180 Z",
+      "M60 180 L240 180",
+      "M150 45 L150 245"
+    ],
+    "words": [
+      {
+        "hanzi": "开车",
+        "pinyin": "kāichē",
+        "translation": "guidare l'automobile"
+      },
+      {
+        "hanzi": "车站",
+        "pinyin": "chēzhàn",
+        "translation": "fermata o stazione dei treni/bus"
+      },
+      {
+        "hanzi": "自行车",
+        "pinyin": "zìxíngchē",
+        "translation": "bicicletta (veicolo semovente)"
+      }
+    ]
+  },
+  {
+    "id": "li",
+    "char": "力",
+    "pinyin": "lì",
+    "meaning": "forza / energia",
+    "category": "vita",
+    "explanation": "Rappresenta un antico aratro di legno impiegato nei campi o un braccio muscoloso col pugno serrato che esprime vigore e fatica fisica.",
+    "mnemonic": "Un braccio teso che flette il bicipite per mostrare tutta la sua forza.",
+    "radical": "力",
+    "strokesCount": 2,
+    "level": 1,
+    "strokes": [
+      "M90 70 L180 70 L180 160 Q180 230 145 220",
+      "M170 75 Q130 150 75 220"
+    ],
+    "words": [
+      {
+        "hanzi": "力气",
+        "pinyin": "lìqi",
+        "translation": "forza fisica"
+      },
+      {
+        "hanzi": "努力",
+        "pinyin": "nǔlì",
+        "translation": "impegnarsi al massimo"
+      },
+      {
+        "hanzi": "能力",
+        "pinyin": "nénglì",
+        "translation": "capacità / talento"
+      }
+    ]
+  },
+  {
+    "id": "wang",
+    "char": "王",
+    "pinyin": "wáng",
+    "meaning": "re / sovrano",
+    "category": "vita",
+    "explanation": "Tre tratti orizzontali uniti da una linea verticale centrale: secondo la filosofia classica simboleggia il sovrano che unisce Cielo, Uomo e Terra attraverso la via del Tao.",
+    "mnemonic": "La linea verticale che collega i tre mondi: cielo, uomo e terra.",
+    "radical": "王",
+    "strokesCount": 4,
+    "level": 1,
+    "strokes": [
+      "M80 70 L220 70",
+      "M95 145 L205 145",
+      "M60 220 L240 220",
+      "M150 70 L150 220"
+    ],
+    "words": [
+      {
+        "hanzi": "国王",
+        "pinyin": "guówáng",
+        "translation": "re dello stato"
+      },
+      {
+        "hanzi": "王子",
+        "pinyin": "wángzǐ",
+        "translation": "principe (figlio del re)"
+      },
+      {
+        "hanzi": "王后",
+        "pinyin": "wánghòu",
+        "translation": "regina consorte"
+      }
+    ]
+  }
+]

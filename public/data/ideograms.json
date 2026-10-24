@@ -1,0 +1,904 @@
+[
+  {
+    "id": "ren",
+    "char": "人",
+    "pinyin": "rén",
+    "meaning": "persona / uomo",
+    "category": "corpo",
+    "explanation": "Rappresenta una persona vista di profilo nell'atto di camminare, con due gambe aperte che poggiano stabilmente al suolo. Nelle antiche iscrizioni oracolari simboleggiava la dignità e la postura eretta dell'essere umano.",
+    "mnemonic": "Due gambe che avanzano con passo deciso.",
+    "radical": "人",
+    "strokesCount": 2,
+    "level": 1,
+    "strokes": [
+      "M140 40 Q130 90 90 220",
+      "M125 100 Q150 160 210 220"
+    ],
+    "words": [
+      { "hanzi": "大人", "pinyin": "dàrén", "translation": "adulto / persona grande" },
+      { "hanzi": "人口", "pinyin": "rénkǒu", "translation": "popolazione (lett. persone-bocche)" },
+      { "hanzi": "工人", "pinyin": "gōngrén", "translation": "operaio / lavoratore" }
+    ]
+  },
+  {
+    "id": "da",
+    "char": "大",
+    "pinyin": "dà",
+    "meaning": "grande / ampio",
+    "category": "spazio",
+    "explanation": "Raffigura una persona (人) a braccia spalancate e gambe divaricate per mostrare la massima estensione possibile o per indicare qualcosa di colossale e importante.",
+    "mnemonic": "Una persona che apre le braccia al massimo per dire 'è così grande!'.",
+    "radical": "大",
+    "strokesCount": 3,
+    "level": 1,
+    "strokes": [
+      "M60 110 L240 110",
+      "M150 50 Q135 140 80 230",
+      "M140 115 Q170 170 225 230"
+    ],
+    "words": [
+      { "hanzi": "大家", "pinyin": "dàjiā", "translation": "tutti / la comunità" },
+      { "hanzi": "大学", "pinyin": "dàxué", "translation": "università (grande studio)" },
+      { "hanzi": "大事", "pinyin": "dàshì", "translation": "grande evento / cosa importante" }
+    ]
+  },
+  {
+    "id": "xiao",
+    "char": "小",
+    "pinyin": "xiǎo",
+    "meaning": "piccolo / ridotto",
+    "category": "spazio",
+    "explanation": "In origine rappresentava tre piccoli granelli di sabbia o gocce d'acqua separate, che indicavano quantità minute o dimensioni ridotte rispetto all'ordinario.",
+    "mnemonic": "Un tronco centrale diviso da due piccoli frammenti ai lati.",
+    "radical": "小",
+    "strokesCount": 3,
+    "level": 1,
+    "strokes": [
+      "M150 50 L150 200 Q150 225 130 215",
+      "M110 110 Q95 140 80 160",
+      "M190 110 Q205 140 220 160"
+    ],
+    "words": [
+      { "hanzi": "小心", "pinyin": "xiǎoxīn", "translation": "attenzione / prudenza (lett. piccolo cuore)" },
+      { "hanzi": "小吃", "pinyin": "xiǎochī", "translation": "spuntino / cibo da strada" },
+      { "hanzi": "小鸟", "pinyin": "xiǎoniǎo", "translation": "uccellino" }
+    ]
+  },
+  {
+    "id": "shan",
+    "char": "山",
+    "pinyin": "shān",
+    "meaning": "montagna",
+    "category": "natura",
+    "explanation": "Pittogramma che raffigura tre picchi montuosi affiancati: la vetta principale più elevata al centro e due picchi secondari sui fianchi uniti dalla linea dell'orizzonte.",
+    "mnemonic": "Tre vette montuose che si ergono dalla pianura.",
+    "radical": "山",
+    "strokesCount": 3,
+    "level": 1,
+    "strokes": [
+      "M150 40 L150 230",
+      "M75 110 L75 230 L225 230",
+      "M225 110 L225 230"
+    ],
+    "words": [
+      { "hanzi": "山水", "pinyin": "shānshuǐ", "translation": "paesaggio naturale / acquerello cinese" },
+      { "hanzi": "高山", "pinyin": "gāoshān", "translation": "alta montagna" },
+      { "hanzi": "火山", "pinyin": "huǒshān", "translation": "vulcano (montagna di fuoco)" }
+    ]
+  },
+  {
+    "id": "ri",
+    "char": "日",
+    "pinyin": "rì",
+    "meaning": "sole / giorno",
+    "category": "natura",
+    "explanation": "Nei caratteri arcaici su gusci di tartaruga era un cerchio con un punto luminoso o linea al centro per indicare la radiazione solare. Con l'evoluzione del pennello è diventato squadrato.",
+    "mnemonic": "Una finestra squadrata illuminata dalla luce del sole.",
+    "radical": "日",
+    "strokesCount": 4,
+    "level": 1,
+    "strokes": [
+      "M90 60 L90 230",
+      "M90 60 L210 60 L210 230",
+      "M90 145 L210 145",
+      "M90 230 L210 230"
+    ],
+    "words": [
+      { "hanzi": "今日", "pinyin": "jīnrì", "translation": "oggi / giorno presente" },
+      { "hanzi": "生日", "pinyin": "shēngrì", "translation": "compleanno (giorno di nascita)" },
+      { "hanzi": "日出", "pinyin": "rìchū", "translation": "alba / levar del sole" }
+    ]
+  },
+  {
+    "id": "yue",
+    "char": "月",
+    "pinyin": "yuè",
+    "meaning": "luna / mese",
+    "category": "natura",
+    "explanation": "Pittogramma di una falce di luna crescente, con due linee interne che richiamavano le sfumature della penombra lunare o le nuvole notturne.",
+    "mnemonic": "La mezzaluna con le costole di nubi nel cielo notturno.",
+    "radical": "月",
+    "strokesCount": 4,
+    "level": 1,
+    "strokes": [
+      "M95 55 Q90 140 85 235",
+      "M95 55 L195 55 L195 235 Q195 240 180 230",
+      "M95 115 L195 115",
+      "M95 175 L195 175"
+    ],
+    "words": [
+      { "hanzi": "月亮", "pinyin": "yuèliang", "translation": "la luna che brilla" },
+      { "hanzi": "日月", "pinyin": "rìyuè", "translation": "tempo / sole e luna" },
+      { "hanzi": "每月", "pinyin": "měiyuè", "translation": "ogni mese" }
+    ]
+  },
+  {
+    "id": "shui",
+    "char": "水",
+    "pinyin": "shuǐ",
+    "meaning": "acqua / fiume",
+    "category": "natura",
+    "explanation": "Rappresenta un corso d'acqua che fluisce sinuoso e limpido al centro, con gocce o spruzzi d'acqua vorticosi ai due lati.",
+    "mnemonic": "Il letto di un torrente impetuoso con gocce che schizzano a destra e sinistra.",
+    "radical": "水",
+    "strokesCount": 4,
+    "level": 1,
+    "strokes": [
+      "M150 45 L150 220 Q150 240 135 225",
+      "M80 115 L135 115 L95 175",
+      "M210 90 L160 140",
+      "M160 145 Q190 190 230 230"
+    ],
+    "words": [
+      { "hanzi": "水果", "pinyin": "shuǐguǒ", "translation": "frutta (frutti d'acqua succosi)" },
+      { "hanzi": "开水", "pinyin": "kāishuǐ", "translation": "acqua bollita / tè caldo" },
+      { "hanzi": "雨水", "pinyin": "yǔshuǐ", "translation": "acqua piovana" }
+    ]
+  },
+  {
+    "id": "huo",
+    "char": "火",
+    "pinyin": "huǒ",
+    "meaning": "fuoco / fiamma",
+    "category": "natura",
+    "explanation": "Disegno realistico di un fuoco da campo: la fiamma centrale che sale verso l'alto e due scintille ardenti che schizzano dai lati.",
+    "mnemonic": "Un falò con la lingua di fuoco principale e lapilli ai fianchi.",
+    "radical": "火",
+    "strokesCount": 4,
+    "level": 1,
+    "strokes": [
+      "M85 115 Q95 135 105 155",
+      "M215 115 Q205 135 195 155",
+      "M150 50 Q140 145 90 230",
+      "M145 130 Q175 185 220 230"
+    ],
+    "words": [
+      { "hanzi": "火车", "pinyin": "huǒchē", "translation": "treno (veicolo a fuoco/vapore)" },
+      { "hanzi": "红火", "pinyin": "hónghuo", "translation": "prospero / fiorente" },
+      { "hanzi": "火腿", "pinyin": "huǒtuǐ", "translation": "prosciutto affumicato" }
+    ]
+  },
+  {
+    "id": "mu",
+    "char": "木",
+    "pinyin": "mù",
+    "meaning": "legno / albero",
+    "category": "natura",
+    "explanation": "Rappresenta un albero intero: la chioma con i rami in alto, il tronco verticale dritto al centro e le radici ben piantate che si allargano nel terreno.",
+    "mnemonic": "Un tronco d'albero con due rami in alto e due radici stese in basso.",
+    "radical": "木",
+    "strokesCount": 4,
+    "level": 1,
+    "strokes": [
+      "M65 100 L235 100",
+      "M150 40 L150 235",
+      "M150 100 Q115 160 75 220",
+      "M150 100 Q185 160 225 220"
+    ],
+    "words": [
+      { "hanzi": "树木", "pinyin": "shùmù", "translation": "alberi / vegetazione forestale" },
+      { "hanzi": "木头", "pinyin": "mùtou", "translation": "pezzo di legno / legname" },
+      { "hanzi": "木门", "pinyin": "mùmén", "translation": "porta di legno" }
+    ]
+  },
+  {
+    "id": "tu",
+    "char": "土",
+    "pinyin": "tǔ",
+    "meaning": "terra / suolo",
+    "category": "natura",
+    "explanation": "In origine raffigurava un monticello di terra fertile posto su un altare arcaico dedicato alla fertilità e agli spiriti della terra.",
+    "mnemonic": "Una pianta che germoglia dalla crosta terrestre.",
+    "radical": "土",
+    "strokesCount": 3,
+    "level": 1,
+    "strokes": [
+      "M85 110 L215 110",
+      "M150 50 L150 225",
+      "M60 225 L240 225"
+    ],
+    "words": [
+      { "hanzi": "土地", "pinyin": "tǔdì", "translation": "terreno / territorio" },
+      { "hanzi": "水土", "pinyin": "shuǐtǔ", "translation": "clima locale (acqua e terra)" },
+      { "hanzi": "土木", "pinyin": "tǔmù", "translation": "ingegneria edile e costruzioni" }
+    ]
+  },
+  {
+    "id": "kou",
+    "char": "口",
+    "pinyin": "kǒu",
+    "meaning": "bocca / apertura",
+    "category": "corpo",
+    "explanation": "Disegno stilizzato di una bocca umana spalancata con le labbra ben definite. Per estensione indica ogni varco, entrata o orifizio.",
+    "mnemonic": "Un rettangolo che imita la forma di una bocca che parla o mangia.",
+    "radical": "口",
+    "strokesCount": 3,
+    "level": 1,
+    "strokes": [
+      "M80 80 L80 220",
+      "M80 80 L220 80 L220 220",
+      "M80 220 L220 220"
+    ],
+    "words": [
+      { "hanzi": "门口", "pinyin": "ménkǒu", "translation": "ingresso / soglia di casa" },
+      { "hanzi": "出口", "pinyin": "chūkǒu", "translation": "uscita" },
+      { "hanzi": "口水", "pinyin": "kǒushuǐ", "translation": "saliva" }
+    ]
+  },
+  {
+    "id": "mu_eye",
+    "char": "目",
+    "pinyin": "mù",
+    "meaning": "occhio / sguardo",
+    "category": "corpo",
+    "explanation": "In origine era disegnato orizzontalmente come il contorno di un occhio con la pupilla e l'iride al centro. Con l'adozione del pennello è stato ruotato in verticale per comodità di scrittura.",
+    "mnemonic": "Un occhio ruotato in verticale con le linee dell'iride interna.",
+    "radical": "目",
+    "strokesCount": 5,
+    "level": 1,
+    "strokes": [
+      "M95 50 L95 240",
+      "M95 50 L205 50 L205 240",
+      "M95 110 L205 110",
+      "M95 175 L205 175",
+      "M95 240 L205 240"
+    ],
+    "words": [
+      { "hanzi": "目光", "pinyin": "mùguāng", "translation": "sguardo / attenzione" },
+      { "hanzi": "目的", "pinyin": "mùdì", "translation": "scopo / bersaglio da centrare" },
+      { "hanzi": "节目录", "pinyin": "jiémù", "translation": "programma / indice" }
+    ]
+  },
+  {
+    "id": "shou",
+    "char": "手",
+    "pinyin": "shǒu",
+    "meaning": "mano / abilità",
+    "category": "corpo",
+    "explanation": "Pittogramma di una mano aperta con cinque dita: il pollice a sinistra, il palmo e il polso curvo sottostante.",
+    "mnemonic": "Una mano aperta vista di fronte con il pollice e il polso.",
+    "radical": "手",
+    "strokesCount": 4,
+    "level": 1,
+    "strokes": [
+      "M195 55 L90 85",
+      "M85 130 L215 130",
+      "M65 175 L235 175",
+      "M150 50 L150 220 Q150 240 125 230"
+    ],
+    "words": [
+      { "hanzi": "手机", "pinyin": "shǒujī", "translation": "telefono cellulare (macchina a mano)" },
+      { "hanzi": "双手", "pinyin": "shuāngshǒu", "translation": "entrambe le mani" },
+      { "hanzi": "水手", "pinyin": "shuǐshǒu", "translation": "marinaio" }
+    ]
+  },
+  {
+    "id": "xin",
+    "char": "心",
+    "pinyin": "xīn",
+    "meaning": "cuore / mente",
+    "category": "corpo",
+    "explanation": "Antico disegno anatomico del cuore con le sue concavità e i vasi sanguigni. Per la cultura cinese il cuore è sia la sede dei sentimenti sia il centro del pensiero e dell'intelletto.",
+    "mnemonic": "La camera cardiaca pulsante circondata da battiti e gocce di vita.",
+    "radical": "心",
+    "strokesCount": 4,
+    "level": 1,
+    "strokes": [
+      "M85 125 Q75 145 70 170",
+      "M110 110 Q120 220 180 220 Q215 220 230 180",
+      "M145 105 Q150 125 155 140",
+      "M210 100 Q215 120 220 135"
+    ],
+    "words": [
+      { "hanzi": "心里", "pinyin": "xīnlǐ", "translation": "nel profondo del cuore / dentro di sé" },
+      { "hanzi": "用心", "pinyin": "yòngxīn", "translation": "attento / diligente" },
+      { "hanzi": "爱心", "pinyin": "àixīn", "translation": "amore / compassione" }
+    ]
+  },
+  {
+    "id": "nv",
+    "char": "女",
+    "pinyin": "nǚ",
+    "meaning": "donna / femmina",
+    "category": "corpo",
+    "explanation": "Rappresenta una donna inginocchiata con le mani incrociate sul petto in segno di grazia e quiete domestica secondo la postura cerimoniale classica.",
+    "mnemonic": "Una figura seduta con le braccia incrociate in avanti con grazia.",
+    "radical": "女",
+    "strokesCount": 3,
+    "level": 1,
+    "strokes": [
+      "M145 50 L115 140 Q150 160 195 220",
+      "M190 90 Q150 140 70 220",
+      "M60 140 L240 140"
+    ],
+    "words": [
+      { "hanzi": "女人", "pinyin": "nǚrén", "translation": "donna adulta" },
+      { "hanzi": "女儿", "pinyin": "nǚ'ér", "translation": "figlia femmina" },
+      { "hanzi": "美女", "pinyin": "měinǚ", "translation": "bella ragazza" }
+    ]
+  },
+  {
+    "id": "zi_child",
+    "char": "子",
+    "pinyin": "zǐ",
+    "meaning": "bambino / figlio / maestro",
+    "category": "corpo",
+    "explanation": "Raffigura un neonato o bimbo in fasce con la testa rotonda, le braccine che gesticolano vivaci e il corpo avvolto in un drappo protettivo.",
+    "mnemonic": "La testolina di un bimbo con le braccia spalancate aperte al mondo.",
+    "radical": "子",
+    "strokesCount": 3,
+    "level": 1,
+    "strokes": [
+      "M100 70 L200 70 L140 120",
+      "M140 120 Q160 150 155 220 Q150 240 130 225",
+      "M65 140 L235 140"
+    ],
+    "words": [
+      { "hanzi": "儿子", "pinyin": "érzi", "translation": "figlio maschio" },
+      { "hanzi": "孩子", "pinyin": "háizi", "translation": "bambino" },
+      { "hanzi": "孔子", "pinyin": "Kǒngzǐ", "translation": "Confucio (Maestro Kong)" }
+    ]
+  },
+  {
+    "id": "yi",
+    "char": "一",
+    "pinyin": "yī",
+    "meaning": "uno / primo",
+    "category": "numeri",
+    "explanation": "Un singolo tratto orizzontale continuo tracciato con il dito o pennello. È la radice prima del conteggio e simboleggia l'unità cosmica fondamentale (il Tao primordiale).",
+    "mnemonic": "Un singolo bastoncino orizzontale o dito steso.",
+    "radical": "一",
+    "strokesCount": 1,
+    "level": 1,
+    "strokes": [
+      "M50 150 L250 150"
+    ],
+    "words": [
+      { "hanzi": "一个人", "pinyin": "yí gè rén", "translation": "una persona sola" },
+      { "hanzi": "第一", "pinyin": "dì-yī", "translation": "primo / in cima alla classifica" },
+      { "hanzi": "一共", "pinyin": "yígòng", "translation": "in totale" }
+    ]
+  },
+  {
+    "id": "er",
+    "char": "二",
+    "pinyin": "èr",
+    "meaning": "due / secondo",
+    "category": "numeri",
+    "explanation": "Due tratti orizzontali paralleli: la linea superiore rappresenta il Cielo (Yang), quella inferiore più lunga rappresenta la Terra (Yin).",
+    "mnemonic": "Due bastoncini da calcolo posati parallelamente sul tavolo.",
+    "radical": "二",
+    "strokesCount": 2,
+    "level": 1,
+    "strokes": [
+      "M80 100 L220 100",
+      "M50 200 L250 200"
+    ],
+    "words": [
+      { "hanzi": "二月", "pinyin": "èryuè", "translation": "febbraio (secondo mese)" },
+      { "hanzi": "第二", "pinyin": "dì-èr", "translation": "secondo" },
+      { "hanzi": "二十", "pinyin": "èrshí", "translation": "venti" }
+    ]
+  },
+  {
+    "id": "san",
+    "char": "三",
+    "pinyin": "sān",
+    "meaning": "tre / terzo",
+    "category": "numeri",
+    "explanation": "Tre linee orizzontali sovrapposte: nella cosmologia taoista rappresentano la triade sacra di Cielo, Uomo e Terra uniti dall'armonia.",
+    "mnemonic": "Tre strisce orizzontali per contare fino a tre.",
+    "radical": "一",
+    "strokesCount": 3,
+    "level": 1,
+    "strokes": [
+      "M80 85 L220 85",
+      "M95 150 L205 150",
+      "M50 215 L250 215"
+    ],
+    "words": [
+      { "hanzi": "三人行", "pinyin": "sān rén xíng", "translation": "camminando in tre (proverbio confuciano)" },
+      { "hanzi": "三月", "pinyin": "sānyuè", "translation": "marzo (terzo mese)" },
+      { "hanzi": "三十", "pinyin": "sānshí", "translation": "trenta" }
+    ]
+  },
+  {
+    "id": "shi",
+    "char": "十",
+    "pinyin": "shí",
+    "meaning": "dieci / completezza",
+    "category": "numeri",
+    "explanation": "La perfetta intersezione di un tratto orizzontale e uno verticale forma una croce: indica l'unione dei quattro punti cardinali e la pienezza decimale.",
+    "mnemonic": "Una croce che racchiude tutte le direzioni: dieci su dieci.",
+    "radical": "十",
+    "strokesCount": 2,
+    "level": 1,
+    "strokes": [
+      "M60 150 L240 150",
+      "M150 50 L150 250"
+    ],
+    "words": [
+      { "hanzi": "十全十美", "pinyin": "shí quán shí měi", "translation": "perfetto sotto ogni aspetto" },
+      { "hanzi": "十分", "pinyin": "shífēn", "translation": "molto / al cento per cento" },
+      { "hanzi": "十一", "pinyin": "shíyī", "translation": "undici" }
+    ]
+  },
+  {
+    "id": "bai",
+    "char": "百",
+    "pinyin": "bǎi",
+    "meaning": "cento / molti",
+    "category": "numeri",
+    "explanation": "Composto dal tratto 'uno' (一) in cima e 'bianco' (白) in basso. Nelle lingue cinesi 'cento' simboleggia anche una moltitudine numerosa.",
+    "mnemonic": "Una linea superiore sopra il carattere 'bianco' per arrivare a cento.",
+    "radical": "白",
+    "strokesCount": 6,
+    "level": 2,
+    "strokes": [
+      "M60 70 L240 70",
+      "M150 70 L140 120",
+      "M95 120 L95 235",
+      "M95 120 L205 120 L205 235",
+      "M95 175 L205 175",
+      "M95 235 L205 235"
+    ],
+    "words": [
+      { "hanzi": "百姓", "pinyin": "bǎixìng", "translation": "il popolo (i cento cognomi)" },
+      { "hanzi": "百分之百", "pinyin": "bǎi fēn zhī bǎi", "translation": "100% / certezza totale" },
+      { "hanzi": "百货", "pinyin": "bǎihuò", "translation": "grandi magazzini (cento merci)" }
+    ]
+  },
+  {
+    "id": "shang",
+    "char": "上",
+    "pinyin": "shàng",
+    "meaning": "sopra / salire / alto",
+    "category": "spazio",
+    "explanation": "Carattere ideografico indicativo: una linea base orizzontale in basso con un'asta verticale e un trattino orientato verso l'alto per indicare ciò che sta 'al di sopra'.",
+    "mnemonic": "Una freccia stilizzata che punta e sorge verso il cielo.",
+    "radical": "一",
+    "strokesCount": 3,
+    "level": 1,
+    "strokes": [
+      "M150 45 L150 225",
+      "M150 135 L220 135",
+      "M60 225 L240 225"
+    ],
+    "words": [
+      { "hanzi": "上班", "pinyin": "shàngbān", "translation": "andare al lavoro" },
+      { "hanzi": "上午", "pinyin": "shàngwǔ", "translation": "mattina (prima di mezzogiorno)" },
+      { "hanzi": "上车", "pinyin": "shàngchē", "translation": "salire sul veicolo / salire a bordo" }
+    ]
+  },
+  {
+    "id": "xia",
+    "char": "下",
+    "pinyin": "xià",
+    "meaning": "sotto / scendere / basso",
+    "category": "spazio",
+    "explanation": "Contrario simmetrico di 'sopra': una linea orizzontale alta con un tratto e un punto orientati verso il basso a indicare la direzione inferiore.",
+    "mnemonic": "Una goccia che pende verso il basso sotto il tetto.",
+    "radical": "一",
+    "strokesCount": 3,
+    "level": 1,
+    "strokes": [
+      "M60 70 L240 70",
+      "M150 70 L150 240",
+      "M150 145 L215 195"
+    ],
+    "words": [
+      { "hanzi": "下雨", "pinyin": "xiàyǔ", "translation": "piovere (scende la pioggia)" },
+      { "hanzi": "下班", "pinyin": "xiàbān", "translation": "staccare dal lavoro" },
+      { "hanzi": "下午", "pinyin": "xiàwǔ", "translation": "pomeriggio" }
+    ]
+  },
+  {
+    "id": "zhong",
+    "char": "中",
+    "pinyin": "zhōng",
+    "meaning": "centro / mezzo / Cina",
+    "category": "spazio",
+    "explanation": "Raffigura un bersaglio rettangolare trafitto esattamente al centro da una freccia verticale. È anche la prima sillaba del nome della Cina (中国, Zhōngguó = Regno del Centro).",
+    "mnemonic": "Una freccia dritta che colpisce il centro del cerchio/scatola.",
+    "radical": "丨",
+    "strokesCount": 4,
+    "level": 1,
+    "strokes": [
+      "M80 90 L80 190",
+      "M80 90 L220 90 L220 190",
+      "M80 190 L220 190",
+      "M150 40 L150 250"
+    ],
+    "words": [
+      { "hanzi": "中国", "pinyin": "Zhōngguó", "translation": "Cina (il Paese di Mezzo)" },
+      { "hanzi": "中文", "pinyin": "Zhōngwén", "translation": "lingua cinese scritta" },
+      { "hanzi": "中间", "pinyin": "zhōngjiān", "translation": "in mezzo / al centro" }
+    ]
+  },
+  {
+    "id": "ma",
+    "char": "马",
+    "pinyin": "mǎ",
+    "meaning": "cavallo",
+    "category": "animali",
+    "explanation": "Nelle antiche scritture raffigurava la sagoma di un destriero al galoppo con la criniera mossa dal vento e la coda fiera. Nella versione semplificata i quattro zoccoli sono sintetizzati in una linea orizzontale.",
+    "mnemonic": "Il profilo scattante del muso e del dorso di un cavallo al galoppo.",
+    "radical": "马",
+    "strokesCount": 3,
+    "level": 1,
+    "strokes": [
+      "M90 70 L190 70 L190 140 L120 140",
+      "M120 140 L120 200 Q120 225 150 225 Q180 225 190 200",
+      "M70 230 L230 230"
+    ],
+    "words": [
+      { "hanzi": "马上", "pinyin": "mǎshàng", "translation": "subito / immediatamente (a cavallo!)" },
+      { "hanzi": "马路", "pinyin": "mǎlù", "translation": "strada carreggiabile" },
+      { "hanzi": "跑马", "pinyin": "pǎomǎ", "translation": "corsa di cavalli" }
+    ]
+  },
+  {
+    "id": "niao",
+    "char": "鸟",
+    "pinyin": "niǎo",
+    "meaning": "uccello / volatile",
+    "category": "animali",
+    "explanation": "Evoluzione del pittogramma di un passerotto: la testa con il becco in alto, l'occhio vigile indicato dal trattino interno e le piume delle ali aperte.",
+    "mnemonic": "Un uccellino appollaiato sul ramo con l'occhietto vivo al centro.",
+    "radical": "鸟",
+    "strokesCount": 5,
+    "level": 2,
+    "strokes": [
+      "M150 45 L135 75",
+      "M130 75 L190 75 L160 130",
+      "M145 100 L165 100",
+      "M130 130 L190 130 Q190 220 170 225",
+      "M80 225 L220 225"
+    ],
+    "words": [
+      { "hanzi": "飞鸟", "pinyin": "fēiniǎo", "translation": "uccello in volo" },
+      { "hanzi": "鸟巢", "pinyin": "niǎocháo", "translation": "nido d'uccello" },
+      { "hanzi": "小鸟", "pinyin": "xiǎoniǎo", "translation": "uccellino" }
+    ]
+  },
+  {
+    "id": "yu_fish",
+    "char": "鱼",
+    "pinyin": "yú",
+    "meaning": "pesce",
+    "category": "animali",
+    "explanation": "Anticamente raffigurava un pesce completo di testa affusolata in cima, corpo squamato e pinna caudale in basso. È anche omofono di 'abbondanza' (余) ed è simbolo propiziatorio del Capodanno cinese.",
+    "mnemonic": "Un pesce con muso a punta, corpo a rete e pinna che nuota.",
+    "radical": "鱼",
+    "strokesCount": 8,
+    "level": 2,
+    "strokes": [
+      "M150 45 L110 85",
+      "M110 85 L190 85",
+      "M100 120 L100 185",
+      "M100 120 L200 120 L200 185",
+      "M100 155 L200 155",
+      "M100 185 L200 185",
+      "M150 120 L150 185",
+      "M70 230 L230 230"
+    ],
+    "words": [
+      { "hanzi": "金鱼", "pinyin": "jīnyú", "translation": "pesce rosso" },
+      { "hanzi": "年年有余", "pinyin": "nián nián yǒu yú", "translation": "che ci sia abbondanza ogni anno" },
+      { "hanzi": "钓鱼", "pinyin": "diàoyú", "translation": "pescare" }
+    ]
+  },
+  {
+    "id": "men",
+    "char": "门",
+    "pinyin": "mén",
+    "meaning": "porta / portale / settore",
+    "category": "vita",
+    "explanation": "Rappresenta i due battenti di un portone d'ingresso tradizionale cinese. Nella scrittura corsiva e semplificata l'arco e i cardini sono riassunti in una struttura aperta ed elegante.",
+    "mnemonic": "L'architrave e il battente della porta d'ingresso.",
+    "radical": "门",
+    "strokesCount": 3,
+    "level": 1,
+    "strokes": [
+      "M100 70 L90 100",
+      "M90 100 L90 230",
+      "M90 100 L200 100 L200 230 Q200 240 180 230"
+    ],
+    "words": [
+      { "hanzi": "开门", "pinyin": "kāimén", "translation": "aprire la porta / aprire l'attività" },
+      { "hanzi": "关门", "pinyin": "guānmén", "translation": "chiudere la porta" },
+      { "hanzi": "名门", "pinyin": "míngmén", "translation": "famiglia illustre" }
+    ]
+  },
+  {
+    "id": "che",
+    "char": "车",
+    "pinyin": "chē",
+    "meaning": "veicolo / carro / automobile",
+    "category": "vita",
+    "explanation": "Vista aerea dall'alto di un antico carro da guerra imperiale: le due ruote laterali collegate dall'asse centrale e la cabina per il conducente.",
+    "mnemonic": "Un carro visto dall'alto con le due ruote e l'asse motrice.",
+    "radical": "车",
+    "strokesCount": 4,
+    "level": 1,
+    "strokes": [
+      "M75 80 L225 80",
+      "M100 125 L200 125 L180 180 L80 180 Z",
+      "M60 180 L240 180",
+      "M150 45 L150 245"
+    ],
+    "words": [
+      { "hanzi": "开车", "pinyin": "kāichē", "translation": "guidare l'automobile" },
+      { "hanzi": "车站", "pinyin": "chēzhàn", "translation": "fermata o stazione dei treni/bus" },
+      { "hanzi": "自行车", "pinyin": "zìxíngchē", "translation": "bicicletta (veicolo semovente)" }
+    ]
+  },
+  {
+    "id": "tian",
+    "char": "天",
+    "pinyin": "tiān",
+    "meaning": "cielo / giorno / natura",
+    "category": "natura",
+    "explanation": "Composto da un uomo grande (大) con un tratto orizzontale in cima sopra la testa che rappresenta la volta celeste infinita che sovrasta l'umanità.",
+    "mnemonic": "La grande persona (大) con il cielo infinito steso sopra la testa.",
+    "radical": "大",
+    "strokesCount": 4,
+    "level": 1,
+    "strokes": [
+      "M80 80 L220 80",
+      "M60 130 L240 130",
+      "M150 80 Q130 160 75 230",
+      "M145 135 Q175 185 225 230"
+    ],
+    "words": [
+      { "hanzi": "今天", "pinyin": "jīntiān", "translation": "oggi" },
+      { "hanzi": "天气", "pinyin": "tiānqì", "translation": "tempo atmosferico / clima" },
+      { "hanzi": "天天", "pinyin": "tiāntiān", "translation": "ogni santo giorno" }
+    ]
+  },
+  {
+    "id": "li",
+    "char": "力",
+    "pinyin": "lì",
+    "meaning": "forza / energia",
+    "category": "vita",
+    "explanation": "Rappresenta un antico aratro di legno impiegato nei campi o un braccio muscoloso col pugno serrato che esprime vigore e fatica fisica.",
+    "mnemonic": "Un braccio teso che flette il bicipite per mostrare tutta la sua forza.",
+    "radical": "力",
+    "strokesCount": 2,
+    "level": 1,
+    "strokes": [
+      "M90 70 L180 70 L180 160 Q180 230 145 220",
+      "M170 75 Q130 150 75 220"
+    ],
+    "words": [
+      { "hanzi": "力气", "pinyin": "lìqi", "translation": "forza fisica" },
+      { "hanzi": "努力", "pinyin": "nǔlì", "translation": "impegnarsi al massimo" },
+      { "hanzi": "能力", "pinyin": "nénglì", "translation": "capacità / talento" }
+    ]
+  },
+  {
+    "id": "wang",
+    "char": "王",
+    "pinyin": "wáng",
+    "meaning": "re / sovrano",
+    "category": "vita",
+    "explanation": "Tre tratti orizzontali uniti da una linea verticale centrale: secondo la filosofia classica simboleggia il sovrano che unisce Cielo, Uomo e Terra attraverso la via del Tao.",
+    "mnemonic": "La linea verticale che collega i tre mondi: cielo, uomo e terra.",
+    "radical": "王",
+    "strokesCount": 4,
+    "level": 1,
+    "strokes": [
+      "M80 70 L220 70",
+      "M95 145 L205 145",
+      "M60 220 L240 220",
+      "M150 70 L150 220"
+    ],
+    "words": [
+      { "hanzi": "国王", "pinyin": "guówáng", "translation": "re dello stato" },
+      { "hanzi": "王子", "pinyin": "wángzǐ", "translation": "principe (figlio del re)" },
+      { "hanzi": "王后", "pinyin": "wánghòu", "translation": "regina consorte" }
+    ]
+  },
+  {
+    "id": "cha",
+    "char": "茶",
+    "pinyin": "chá",
+    "meaning": "tè / foglia di tè",
+    "category": "cibo",
+    "explanation": "Composto dal radicale dell'erba (艹) in cima, una tettoia stilizzata (人) e un albero (木) in basso. Raffigura l'uomo che coglie e lavora le tenere foglie verdi dagli arbusti di tè.",
+    "mnemonic": "Erba e foglie in alto raccolte da persone tra gli alberi.",
+    "radical": "艹",
+    "strokesCount": 9,
+    "level": 1,
+    "strokes": [
+      "M70 70 L230 70",
+      "M110 40 L110 80",
+      "M190 40 L190 80",
+      "M150 90 L80 140",
+      "M150 90 L220 140",
+      "M70 170 L230 170",
+      "M150 140 L150 240",
+      "M150 170 Q110 210 70 240",
+      "M150 170 Q190 210 230 240"
+    ],
+    "words": [
+      { "hanzi": "绿茶", "pinyin": "lǜchá", "translation": "tè verde" },
+      { "hanzi": "红茶", "pinyin": "hóngchá", "translation": "tè nero (tè rosso in Cina)" },
+      { "hanzi": "喝茶", "pinyin": "hēchá", "translation": "bere il tè" }
+    ]
+  },
+  {
+    "id": "mi_rice",
+    "char": "米",
+    "pinyin": "mǐ",
+    "meaning": "riso / chicco / metro",
+    "category": "cibo",
+    "explanation": "Antico pittogramma che raffigura una spiga di riso matura con chicchi sparsi attorno alla croce del fusto. È l'alimento base e l'essenza vitale della civiltà cinese.",
+    "mnemonic": "Una spiga con chicchi di riso che brillano nei quattro angoli.",
+    "radical": "米",
+    "strokesCount": 6,
+    "level": 1,
+    "strokes": [
+      "M100 80 L125 110",
+      "M200 80 L175 110",
+      "M60 140 L240 140",
+      "M150 50 L150 240",
+      "M150 140 Q110 190 70 230",
+      "M150 140 Q190 190 230 230"
+    ],
+    "words": [
+      { "hanzi": "米饭", "pinyin": "mǐfàn", "translation": "riso cotto a vapore" },
+      { "hanzi": "大米", "pinyin": "dàmǐ", "translation": "riso crudo in chicchi" },
+      { "hanzi": "玉米", "pinyin": "yùmǐ", "translation": "mais (grano di giada)" }
+    ]
+  },
+  {
+    "id": "rou",
+    "char": "肉",
+    "pinyin": "ròu",
+    "meaning": "carne / polpa",
+    "category": "cibo",
+    "explanation": "In origine raffigurava un pezzo di carne tagliata fresca con le striature delle fibre muscolari e del grasso visibili all'interno.",
+    "mnemonic": "Una costata di carne con le striature delle fibre interne.",
+    "radical": "肉",
+    "strokesCount": 6,
+    "level": 2,
+    "strokes": [
+      "M80 60 L80 230",
+      "M80 60 L220 60 L220 230 Q220 240 200 235",
+      "M150 90 L120 135",
+      "M120 135 L170 135",
+      "M150 155 L120 200",
+      "M120 200 L170 200"
+    ],
+    "words": [
+      { "hanzi": "牛肉", "pinyin": "niúròu", "translation": "carne di manzo" },
+      { "hanzi": "猪肉", "pinyin": "zhūròu", "translation": "carne di maiale" },
+      { "hanzi": "肌肉", "pinyin": "jīròu", "translation": "muscolo corporeo" }
+    ]
+  },
+  {
+    "id": "yu_rain",
+    "char": "雨",
+    "pinyin": "yǔ",
+    "meaning": "pioggia / precipitare",
+    "category": "tempo",
+    "explanation": "Mostra il cielo scuro e le nubi cariche d'acqua in alto (la volta orizzontale) da cui scendono quattro gocce di pioggia scroscianti.",
+    "mnemonic": "Una nuvola in alto con quattro gocce d'acqua che cadono dal cielo.",
+    "radical": "雨",
+    "strokesCount": 8,
+    "level": 1,
+    "strokes": [
+      "M75 60 L225 60",
+      "M150 60 L150 110",
+      "M70 110 L230 110 L230 230 Q230 240 210 235",
+      "M150 110 L150 235",
+      "M100 145 L115 170",
+      "M100 195 L115 220",
+      "M185 145 L200 170",
+      "M185 195 L200 220"
+    ],
+    "words": [
+      { "hanzi": "下雨", "pinyin": "xiàyǔ", "translation": "piovere" },
+      { "hanzi": "雨伞", "pinyin": "yǔsǎn", "translation": "ombrello per la pioggia" },
+      { "hanzi": "暴风雨", "pinyin": "bàofēngyǔ", "translation": "tempesta / temporale violento" }
+    ]
+  },
+  {
+    "id": "feng_wind",
+    "char": "风",
+    "pinyin": "fēng",
+    "meaning": "vento / stile / costume",
+    "category": "tempo",
+    "explanation": "Nell'antichità il vento era personificato come un grande uccello mitologico simile alla fenice che spiegava le ali nell'aria. Nella forma semplificata la brezza soffia all'interno di una cornice aperta.",
+    "mnemonic": "Una folata di brezza che si muove leggera nell'aria aperta.",
+    "radical": "风",
+    "strokesCount": 4,
+    "level": 1,
+    "strokes": [
+      "M90 60 Q80 140 70 230",
+      "M90 60 L200 60 Q215 130 220 220 Q220 235 200 225",
+      "M115 110 Q145 135 170 160",
+      "M170 110 Q145 145 125 180"
+    ],
+    "words": [
+      { "hanzi": "风气", "pinyin": "fēngqì", "translation": "atmosfera / tendenza culturale" },
+      { "hanzi": "大风", "pinyin": "dàfēng", "translation": "forte vento / bufera" },
+      { "hanzi": "风景", "pinyin": "fēngjǐng", "translation": "paesaggio panoramico" }
+    ]
+  },
+  {
+    "id": "nian",
+    "char": "年",
+    "pinyin": "nián",
+    "meaning": "anno / raccolto / età",
+    "category": "tempo",
+    "explanation": "Originariamente raffigurava un uomo (人) che portava sulla schiena un pesante fascio di grano maturo (禾). Simboleggiava il raccolto annuale e il ciclo delle stagioni.",
+    "mnemonic": "Un fascio di grano maturo che celebra la chiusura del ciclo annuale.",
+    "radical": "干",
+    "strokesCount": 6,
+    "level": 1,
+    "strokes": [
+      "M120 50 L95 85",
+      "M75 105 L225 105",
+      "M80 150 L220 150",
+      "M115 105 L115 185",
+      "M60 190 L240 190",
+      "M150 105 L150 250"
+    ],
+    "words": [
+      { "hanzi": "新年", "pinyin": "xīnnián", "translation": "Capodanno / anno nuovo" },
+      { "hanzi": "今年", "pinyin": "jīnnián", "translation": "quest'anno" },
+      { "hanzi": "少年", "pinyin": "shàonián", "translation": "gioventù / adolescente" }
+    ]
+  },
+  {
+    "id": "chun",
+    "char": "春",
+    "pinyin": "chūn",
+    "meaning": "primavera / vitalità",
+    "category": "tempo",
+    "explanation": "Composto dal sole (日) in basso che riscalda la terra, l'erba che germoglia e la vegetazione (艹) che cresce rigogliosa con i primi caldi.",
+    "mnemonic": "Il sole caldo (日) che fa germogliare l'erba a primavera.",
+    "radical": "日",
+    "strokesCount": 9,
+    "level": 1,
+    "strokes": [
+      "M75 75 L225 75",
+      "M90 115 L210 115",
+      "M60 155 L240 155",
+      "M150 45 Q120 135 65 210",
+      "M145 120 Q175 170 225 215",
+      "M110 175 L110 245",
+      "M110 175 L190 175 L190 245",
+      "M110 210 L190 210",
+      "M110 245 L190 245"
+    ],
+    "words": [
+      { "hanzi": "春天", "pinyin": "chūntiān", "translation": "stagione della primavera" },
+      { "hanzi": "春节", "pinyin": "Chūnjié", "translation": "Festa di Primavera (Capodanno cinese)" },
+      { "hanzi": "青春", "pinyin": "qīngchūn", "translation": "gioventù (verde primavera)" }
+    ]
+  }
+]

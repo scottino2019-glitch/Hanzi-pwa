@@ -1,0 +1,280 @@
+[
+  {
+    "id": "shan",
+    "char": "山",
+    "pinyin": "shān",
+    "meaning": "montagna",
+    "category": "natura",
+    "explanation": "Pittogramma che raffigura tre picchi montuosi affiancati: la vetta principale più elevata al centro e due picchi secondari sui fianchi uniti dalla linea dell'orizzonte.",
+    "mnemonic": "Tre vette montuose che si ergono dalla pianura.",
+    "radical": "山",
+    "strokesCount": 3,
+    "level": 1,
+    "strokes": [
+      "M150 40 L150 230",
+      "M75 110 L75 230 L225 230",
+      "M225 110 L225 230"
+    ],
+    "words": [
+      {
+        "hanzi": "山水",
+        "pinyin": "shānshuǐ",
+        "translation": "paesaggio naturale / acquerello cinese"
+      },
+      {
+        "hanzi": "高山",
+        "pinyin": "gāoshān",
+        "translation": "alta montagna"
+      },
+      {
+        "hanzi": "火山",
+        "pinyin": "huǒshān",
+        "translation": "vulcano (montagna di fuoco)"
+      }
+    ]
+  },
+  {
+    "id": "ri",
+    "char": "日",
+    "pinyin": "rì",
+    "meaning": "sole / giorno",
+    "category": "natura",
+    "explanation": "Nei caratteri arcaici su gusci di tartaruga era un cerchio con un punto luminoso o linea al centro per indicare la radiazione solare. Con l'evoluzione del pennello è diventato squadrato.",
+    "mnemonic": "Una finestra squadrata illuminata dalla luce del sole.",
+    "radical": "日",
+    "strokesCount": 4,
+    "level": 1,
+    "strokes": [
+      "M90 60 L90 230",
+      "M90 60 L210 60 L210 230",
+      "M90 145 L210 145",
+      "M90 230 L210 230"
+    ],
+    "words": [
+      {
+        "hanzi": "今日",
+        "pinyin": "jīnrì",
+        "translation": "oggi / giorno presente"
+      },
+      {
+        "hanzi": "生日",
+        "pinyin": "shēngrì",
+        "translation": "compleanno (giorno di nascita)"
+      },
+      {
+        "hanzi": "日出",
+        "pinyin": "rìchū",
+        "translation": "alba / levar del sole"
+      }
+    ]
+  },
+  {
+    "id": "yue",
+    "char": "月",
+    "pinyin": "yuè",
+    "meaning": "luna / mese",
+    "category": "natura",
+    "explanation": "Pittogramma di una falce di luna crescente, con due linee interne che richiamavano le sfumature della penombra lunare o le nuvole notturne.",
+    "mnemonic": "La mezzaluna con le costole di nubi nel cielo notturno.",
+    "radical": "月",
+    "strokesCount": 4,
+    "level": 1,
+    "strokes": [
+      "M95 55 Q90 140 85 235",
+      "M95 55 L195 55 L195 235 Q195 240 180 230",
+      "M95 115 L195 115",
+      "M95 175 L195 175"
+    ],
+    "words": [
+      {
+        "hanzi": "月亮",
+        "pinyin": "yuèliang",
+        "translation": "la luna che brilla"
+      },
+      {
+        "hanzi": "日月",
+        "pinyin": "rìyuè",
+        "translation": "tempo / sole e luna"
+      },
+      {
+        "hanzi": "每月",
+        "pinyin": "měiyuè",
+        "translation": "ogni mese"
+      }
+    ]
+  },
+  {
+    "id": "shui",
+    "char": "水",
+    "pinyin": "shuǐ",
+    "meaning": "acqua / fiume",
+    "category": "natura",
+    "explanation": "Rappresenta un corso d'acqua che fluisce sinuoso e limpido al centro, con gocce o spruzzi d'acqua vorticosi ai due lati.",
+    "mnemonic": "Il letto di un torrente impetuoso con gocce che schizzano a destra e sinistra.",
+    "radical": "水",
+    "strokesCount": 4,
+    "level": 1,
+    "strokes": [
+      "M150 45 L150 220 Q150 240 135 225",
+      "M80 115 L135 115 L95 175",
+      "M210 90 L160 140",
+      "M160 145 Q190 190 230 230"
+    ],
+    "words": [
+      {
+        "hanzi": "水果",
+        "pinyin": "shuǐguǒ",
+        "translation": "frutta (frutti d'acqua succosi)"
+      },
+      {
+        "hanzi": "开水",
+        "pinyin": "kāishuǐ",
+        "translation": "acqua bollita / tè caldo"
+      },
+      {
+        "hanzi": "雨水",
+        "pinyin": "yǔshuǐ",
+        "translation": "acqua piovana"
+      }
+    ]
+  },
+  {
+    "id": "huo",
+    "char": "火",
+    "pinyin": "huǒ",
+    "meaning": "fuoco / fiamma",
+    "category": "natura",
+    "explanation": "Disegno realistico di un fuoco da campo: la fiamma centrale che sale verso l'alto e due scintille ardenti che schizzano dai lati.",
+    "mnemonic": "Un falò con la lingua di fuoco principale e lapilli ai fianchi.",
+    "radical": "火",
+    "strokesCount": 4,
+    "level": 1,
+    "strokes": [
+      "M85 115 Q95 135 105 155",
+      "M215 115 Q205 135 195 155",
+      "M150 50 Q140 145 90 230",
+      "M145 130 Q175 185 220 230"
+    ],
+    "words": [
+      {
+        "hanzi": "火车",
+        "pinyin": "huǒchē",
+        "translation": "treno (veicolo a fuoco/vapore)"
+      },
+      {
+        "hanzi": "红火",
+        "pinyin": "hónghuo",
+        "translation": "prospero / fiorente"
+      },
+      {
+        "hanzi": "火腿",
+        "pinyin": "huǒtuǐ",
+        "translation": "prosciutto affumicato"
+      }
+    ]
+  },
+  {
+    "id": "mu",
+    "char": "木",
+    "pinyin": "mù",
+    "meaning": "legno / albero",
+    "category": "natura",
+    "explanation": "Rappresenta un albero intero: la chioma con i rami in alto, il tronco verticale dritto al centro e le radici ben piantate che si allargano nel terreno.",
+    "mnemonic": "Un tronco d'albero con due rami in alto e due radici stese in basso.",
+    "radical": "木",
+    "strokesCount": 4,
+    "level": 1,
+    "strokes": [
+      "M65 100 L235 100",
+      "M150 40 L150 235",
+      "M150 100 Q115 160 75 220",
+      "M150 100 Q185 160 225 220"
+    ],
+    "words": [
+      {
+        "hanzi": "树木",
+        "pinyin": "shùmù",
+        "translation": "alberi / vegetazione forestale"
+      },
+      {
+        "hanzi": "木头",
+        "pinyin": "mùtou",
+        "translation": "pezzo di legno / legname"
+      },
+      {
+        "hanzi": "木门",
+        "pinyin": "mùmén",
+        "translation": "porta di legno"
+      }
+    ]
+  },
+  {
+    "id": "tu",
+    "char": "土",
+    "pinyin": "tǔ",
+    "meaning": "terra / suolo",
+    "category": "natura",
+    "explanation": "In origine raffigurava un monticello di terra fertile posto su un altare arcaico dedicato alla fertilità e agli spiriti della terra.",
+    "mnemonic": "Una pianta che germoglia dalla crosta terrestre.",
+    "radical": "土",
+    "strokesCount": 3,
+    "level": 1,
+    "strokes": [
+      "M85 110 L215 110",
+      "M150 50 L150 225",
+      "M60 225 L240 225"
+    ],
+    "words": [
+      {
+        "hanzi": "土地",
+        "pinyin": "tǔdì",
+        "translation": "terreno / territorio"
+      },
+      {
+        "hanzi": "水土",
+        "pinyin": "shuǐtǔ",
+        "translation": "clima locale (acqua e terra)"
+      },
+      {
+        "hanzi": "土木",
+        "pinyin": "tǔmù",
+        "translation": "ingegneria edile e costruzioni"
+      }
+    ]
+  },
+  {
+    "id": "tian",
+    "char": "天",
+    "pinyin": "tiān",
+    "meaning": "cielo / giorno / natura",
+    "category": "natura",
+    "explanation": "Composto da un uomo grande (大) con un tratto orizzontale in cima sopra la testa che rappresenta la volta celeste infinita che sovrasta l'umanità.",
+    "mnemonic": "La grande persona (大) con il cielo infinito steso sopra la testa.",
+    "radical": "大",
+    "strokesCount": 4,
+    "level": 1,
+    "strokes": [
+      "M80 80 L220 80",
+      "M60 130 L240 130",
+      "M150 80 Q130 160 75 230",
+      "M145 135 Q175 185 225 230"
+    ],
+    "words": [
+      {
+        "hanzi": "今天",
+        "pinyin": "jīntiān",
+        "translation": "oggi"
+      },
+      {
+        "hanzi": "天气",
+        "pinyin": "tiānqì",
+        "translation": "tempo atmosferico / clima"
+      },
+      {
+        "hanzi": "天天",
+        "pinyin": "tiāntiān",
+        "translation": "ogni santo giorno"
+      }
+    ]
+  }
+]

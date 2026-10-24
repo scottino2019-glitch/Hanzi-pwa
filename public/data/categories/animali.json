@@ -1,0 +1,111 @@
+[
+  {
+    "id": "ma",
+    "char": "马",
+    "pinyin": "mǎ",
+    "meaning": "cavallo",
+    "category": "animali",
+    "explanation": "Nelle antiche scritture raffigurava la sagoma di un destriero al galoppo con la criniera mossa dal vento e la coda fiera. Nella versione semplificata i quattro zoccoli sono sintetizzati in una linea orizzontale.",
+    "mnemonic": "Il profilo scattante del muso e del dorso di un cavallo al galoppo.",
+    "radical": "马",
+    "strokesCount": 3,
+    "level": 1,
+    "strokes": [
+      "M90 70 L190 70 L190 140 L120 140",
+      "M120 140 L120 200 Q120 225 150 225 Q180 225 190 200",
+      "M70 230 L230 230"
+    ],
+    "words": [
+      {
+        "hanzi": "马上",
+        "pinyin": "mǎshàng",
+        "translation": "subito / immediatamente (a cavallo!)"
+      },
+      {
+        "hanzi": "马路",
+        "pinyin": "mǎlù",
+        "translation": "strada carreggiabile"
+      },
+      {
+        "hanzi": "跑马",
+        "pinyin": "pǎomǎ",
+        "translation": "corsa di cavalli"
+      }
+    ]
+  },
+  {
+    "id": "niao",
+    "char": "鸟",
+    "pinyin": "niǎo",
+    "meaning": "uccello / volatile",
+    "category": "animali",
+    "explanation": "Evoluzione del pittogramma di un passerotto: la testa con il becco in alto, l'occhio vigile indicato dal trattino interno e le piume delle ali aperte.",
+    "mnemonic": "Un uccellino appollaiato sul ramo con l'occhietto vivo al centro.",
+    "radical": "鸟",
+    "strokesCount": 5,
+    "level": 2,
+    "strokes": [
+      "M150 45 L135 75",
+      "M130 75 L190 75 L160 130",
+      "M145 100 L165 100",
+      "M130 130 L190 130 Q190 220 170 225",
+      "M80 225 L220 225"
+    ],
+    "words": [
+      {
+        "hanzi": "飞鸟",
+        "pinyin": "fēiniǎo",
+        "translation": "uccello in volo"
+      },
+      {
+        "hanzi": "鸟巢",
+        "pinyin": "niǎocháo",
+        "translation": "nido d'uccello"
+      },
+      {
+        "hanzi": "小鸟",
+        "pinyin": "xiǎoniǎo",
+        "translation": "uccellino"
+      }
+    ]
+  },
+  {
+    "id": "yu_fish",
+    "char": "鱼",
+    "pinyin": "yú",
+    "meaning": "pesce",
+    "category": "animali",
+    "explanation": "Anticamente raffigurava un pesce completo di testa affusolata in cima, corpo squamato e pinna caudale in basso. È anche omofono di 'abbondanza' (余) ed è simbolo propiziatorio del Capodanno cinese.",
+    "mnemonic": "Un pesce con muso a punta, corpo a rete e pinna che nuota.",
+    "radical": "鱼",
+    "strokesCount": 8,
+    "level": 2,
+    "strokes": [
+      "M150 45 L110 85",
+      "M110 85 L190 85",
+      "M100 120 L100 185",
+      "M100 120 L200 120 L200 185",
+      "M100 155 L200 155",
+      "M100 185 L200 185",
+      "M150 120 L150 185",
+      "M70 230 L230 230"
+    ],
+    "words": [
+      {
+        "hanzi": "金鱼",
+        "pinyin": "jīnyú",
+        "translation": "pesce rosso"
+      },
+      {
+        "hanzi": "年年有余",
+        "pinyin": "nián nián yǒu yú",
+        "translation": "che ci sia abbondanza ogni anno"
+      },
+      {
+        "hanzi": "钓鱼",
+        "pinyin": "diàoyú",
+        "translation": "pescare"
+      }
+    ]
+  }
+]

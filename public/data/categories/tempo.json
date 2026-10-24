@@ -1,0 +1,153 @@
+[
+  {
+    "id": "yu_rain",
+    "char": "雨",
+    "pinyin": "yǔ",
+    "meaning": "pioggia / precipitare",
+    "category": "tempo",
+    "explanation": "Mostra il cielo scuro e le nubi cariche d'acqua in alto (la volta orizzontale) da cui scendono quattro gocce di pioggia scroscianti.",
+    "mnemonic": "Una nuvola in alto con quattro gocce d'acqua che cadono dal cielo.",
+    "radical": "雨",
+    "strokesCount": 8,
+    "level": 1,
+    "strokes": [
+      "M75 60 L225 60",
+      "M150 60 L150 110",
+      "M70 110 L230 110 L230 230 Q230 240 210 235",
+      "M150 110 L150 235",
+      "M100 145 L115 170",
+      "M100 195 L115 220",
+      "M185 145 L200 170",
+      "M185 195 L200 220"
+    ],
+    "words": [
+      {
+        "hanzi": "下雨",
+        "pinyin": "xiàyǔ",
+        "translation": "piovere"
+      },
+      {
+        "hanzi": "雨伞",
+        "pinyin": "yǔsǎn",
+        "translation": "ombrello per la pioggia"
+      },
+      {
+        "hanzi": "暴风雨",
+        "pinyin": "bàofēngyǔ",
+        "translation": "tempesta / temporale violento"
+      }
+    ]
+  },
+  {
+    "id": "feng_wind",
+    "char": "风",
+    "pinyin": "fēng",
+    "meaning": "vento / stile / costume",
+    "category": "tempo",
+    "explanation": "Nell'antichità il vento era personificato come un grande uccello mitologico simile alla fenice che spiegava le ali nell'aria. Nella forma semplificata la brezza soffia all'interno di una cornice aperta.",
+    "mnemonic": "Una folata di brezza che si muove leggera nell'aria aperta.",
+    "radical": "风",
+    "strokesCount": 4,
+    "level": 1,
+    "strokes": [
+      "M90 60 Q80 140 70 230",
+      "M90 60 L200 60 Q215 130 220 220 Q220 235 200 225",
+      "M115 110 Q145 135 170 160",
+      "M170 110 Q145 145 125 180"
+    ],
+    "words": [
+      {
+        "hanzi": "风气",
+        "pinyin": "fēngqì",
+        "translation": "atmosfera / tendenza culturale"
+      },
+      {
+        "hanzi": "大风",
+        "pinyin": "dàfēng",
+        "translation": "forte vento / bufera"
+      },
+      {
+        "hanzi": "风景",
+        "pinyin": "fēngjǐng",
+        "translation": "paesaggio panoramico"
+      }
+    ]
+  },
+  {
+    "id": "nian",
+    "char": "年",
+    "pinyin": "nián",
+    "meaning": "anno / raccolto / età",
+    "category": "tempo",
+    "explanation": "Originariamente raffigurava un uomo (人) che portava sulla schiena un pesante fascio di grano maturo (禾). Simboleggiava il raccolto annuale e il ciclo delle stagioni.",
+    "mnemonic": "Un fascio di grano maturo che celebra la chiusura del ciclo annuale.",
+    "radical": "干",
+    "strokesCount": 6,
+    "level": 1,
+    "strokes": [
+      "M120 50 L95 85",
+      "M75 105 L225 105",
+      "M80 150 L220 150",
+      "M115 105 L115 185",
+      "M60 190 L240 190",
+      "M150 105 L150 250"
+    ],
+    "words": [
+      {
+        "hanzi": "新年",
+        "pinyin": "xīnnián",
+        "translation": "Capodanno / anno nuovo"
+      },
+      {
+        "hanzi": "今年",
+        "pinyin": "jīnnián",
+        "translation": "quest'anno"
+      },
+      {
+        "hanzi": "少年",
+        "pinyin": "shàonián",
+        "translation": "gioventù / adolescente"
+      }
+    ]
+  },
+  {
+    "id": "chun",
+    "char": "春",
+    "pinyin": "chūn",
+    "meaning": "primavera / vitalità",
+    "category": "tempo",
+    "explanation": "Composto dal sole (日) in basso che riscalda la terra, l'erba che germoglia e la vegetazione (艹) che cresce rigogliosa con i primi caldi.",
+    "mnemonic": "Il sole caldo (日) che fa germogliare l'erba a primavera.",
+    "radical": "日",
+    "strokesCount": 9,
+    "level": 1,
+    "strokes": [
+      "M75 75 L225 75",
+      "M90 115 L210 115",
+      "M60 155 L240 155",
+      "M150 45 Q120 135 65 210",
+      "M145 120 Q175 170 225 215",
+      "M110 175 L110 245",
+      "M110 175 L190 175 L190 245",
+      "M110 210 L190 210",
+      "M110 245 L190 245"
+    ],
+    "words": [
+      {
+        "hanzi": "春天",
+        "pinyin": "chūntiān",
+        "translation": "stagione della primavera"
+      },
+      {
+        "hanzi": "春节",
+        "pinyin": "Chūnjié",
+        "translation": "Festa di Primavera (Capodanno cinese)"
+      },
+      {
+        "hanzi": "青春",
+        "pinyin": "qīngchūn",
+        "translation": "gioventù (verde primavera)"
+      }
+    ]
+  }
+]

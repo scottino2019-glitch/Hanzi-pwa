@@ -1,0 +1,6 @@
+{
+  "name": "HanziPWA - Ideogrammi Cinesi",
+  "description": "App PWA offline per imparare gli ideogrammi cinesi organizzati per categoria con spiegazioni, etimologia, ricerca rapida e pratica di scrittura.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

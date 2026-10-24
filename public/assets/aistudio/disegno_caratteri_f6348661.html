@@ -1,0 +1,487 @@
+<!doctype html>
+<html lang="it">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+  <title>Disegno Ideogrammi Classico</title>
+  <style>
+    * {
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+      font-family: system-ui, -apple-system, sans-serif;
+    }
+
+    body {
+      background: #fafaf9;
+      color: #1c1917;
+      min-height: 100vh;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: flex-start;
+      padding: 12px;
+    }
+
+    .main-wrapper {
+      width: 100%;
+      max-width: 720px;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      margin: 0 auto;
+    }
+
+    .top-bar {
+      width: 100%;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      padding: 10px 16px;
+      background: #ffffff;
+      border: 1px solid #e7e5e4;
+      border-radius: 16px;
+      margin-bottom: 12px;
+      box-shadow: 0 1px 3px rgba(0,0,0,0.04);
+    }
+
+    .title-group {
+      display: flex;
+      align-items: center;
+      gap: 10px;
+    }
+
+    .title-badge {
+      background: #b91c1c;
+      color: white;
+      font-size: 11px;
+      font-weight: 800;
+      padding: 3px 10px;
+      border-radius: 8px;
+      text-transform: uppercase;
+      letter-spacing: 0.5px;
+    }
+
+    .game-title {
+      font-size: 16px;
+      font-weight: 800;
+      color: #1c1917;
+    }
+
+    .back-btn {
+      background: #f5f5f4;
+      border: 1px solid #d6d3d1;
+      color: #292524;
+      padding: 6px 14px;
+      border-radius: 10px;
+      font-size: 12px;
+      font-weight: 700;
+      cursor: pointer;
+      display: inline-flex;
+      align-items: center;
+      gap: 6px;
+      transition: all 0.2s;
+    }
+
+    .back-btn:hover {
+      background: #e7e5e4;
+    }
+
+    .stats-card {
+      width: 100%;
+      display: grid;
+      grid-template-columns: repeat(3, 1fr);
+      gap: 12px;
+      background: #ffffff;
+      border: 1px solid #e7e5e4;
+      border-radius: 16px;
+      padding: 10px 16px;
+      text-align: center;
+      margin-bottom: 14px;
+      box-shadow: 0 1px 3px rgba(0,0,0,0.04);
+    }
+
+    .stat-val {
+      font-size: 22px;
+      font-weight: 900;
+      color: #b91c1c;
+      line-height: 1.1;
+    }
+
+    .stat-lbl {
+      font-size: 11px;
+      text-transform: uppercase;
+      font-weight: 700;
+      color: #78716c;
+      letter-spacing: 0.5px;
+    }
+
+    .draw-card {
+      width: 100%;
+      background: #ffffff;
+      border: 1px solid #e7e5e4;
+      border-radius: 20px;
+      padding: 20px;
+      box-shadow: 0 4px 15px rgba(0,0,0,0.05);
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+    }
+
+    .char-info-box {
+      width: 100%;
+      text-align: center;
+      margin-bottom: 12px;
+    }
+
+    .char-header {
+      display: flex;
+      align-items: baseline;
+      justify-content: center;
+      gap: 12px;
+      flex-wrap: wrap;
+    }
+
+    .char-huge {
+      font-size: 56px;
+      font-weight: 900;
+      color: #b91c1c;
+      font-family: "Noto Serif SC", "STKaiti", serif;
+      line-height: 1;
+    }
+
+    .char-meaning {
+      font-size: 20px;
+      font-weight: 800;
+      color: #1c1917;
+      text-transform: capitalize;
+    }
+
+    .char-pinyin {
+      font-size: 18px;
+      font-weight: 800;
+      color: #d97706;
+      font-family: monospace;
+    }
+
+    .char-context {
+      font-size: 13px;
+      color: #57534e;
+      margin-top: 4px;
+    }
+
+    .canvas-wrapper {
+      position: relative;
+      margin: 8px 0 16px 0;
+      border-radius: 20px;
+      overflow: hidden;
+      box-shadow: 0 4px 20px rgba(185, 28, 28, 0.12);
+      border: 3px solid #b91c1c;
+      background: #ffffff;
+      width: min(380px, 86vw);
+      height: min(380px, 86vw);
+    }
+
+    .drawing-canvas {
+      display: block;
+      cursor: crosshair;
+      touch-action: none;
+      width: 100%;
+      height: 100%;
+    }
+
+    .buttons-row {
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: center;
+      gap: 10px;
+      width: 100%;
+    }
+
+    .btn {
+      padding: 10px 18px;
+      border-radius: 14px;
+      font-size: 13px;
+      font-weight: 700;
+      cursor: pointer;
+      transition: all 0.2s;
+      border: none;
+      display: inline-flex;
+      align-items: center;
+      gap: 6px;
+    }
+
+    .btn-secondary {
+      background: #f5f5f4;
+      color: #292524;
+      border: 1px solid #d6d3d1;
+    }
+
+    .btn-secondary:hover {
+      background: #e7e5e4;
+    }
+
+    .btn-primary {
+      background: linear-gradient(135deg, #b91c1c 0%, #ea580c 100%);
+      color: white;
+      box-shadow: 0 4px 12px rgba(185, 28, 28, 0.3);
+    }
+
+    .btn-primary:hover {
+      opacity: 0.95;
+      transform: translateY(-1px);
+    }
+
+    .feedback-toast {
+      position: fixed;
+      top: 15px;
+      left: 50%;
+      transform: translateX(-50%);
+      background: #15803d;
+      color: white;
+      padding: 10px 24px;
+      border-radius: 12px;
+      font-size: 14px;
+      font-weight: 800;
+      box-shadow: 0 10px 25px rgba(0,0,0,0.25);
+      z-index: 1000;
+      display: none;
+    }
+  </style>
+</head>
+<body>
+  <div class="feedback-toast" id="feedbackToast"></div>
+
+  <div class="main-wrapper">
+    <div class="top-bar">
+      <div class="title-group">
+        <span class="title-badge">Calligrafia</span>
+        <h1 class="game-title">Disegno Oracolare</h1>
+      </div>
+      <button class="back-btn" onclick="window.parent.postMessage('close_external_game', '*')">
+        ⬅️ Torna alla Lista
+      </button>
+    </div>
+
+    <div class="stats-card">
+      <div>
+        <div class="stat-val" id="drawCompleted">0</div>
+        <div class="stat-lbl">Completati</div>
+      </div>
+      <div>
+        <div class="stat-val" id="drawAccuracy">0%</div>
+        <div class="stat-lbl">Precisione</div>
+      </div>
+      <div>
+        <div class="stat-val" id="drawStrokes">0</div>
+        <div class="stat-lbl">Tratti</div>
+      </div>
+    </div>
+
+    <div class="draw-card">
+      <div class="char-info-box">
+        <div class="char-header">
+          <span class="char-huge" id="drawCharacter">人</span>
+          <span class="char-meaning" id="charMeaning">persona</span>
+          <span class="char-pinyin" id="charPinyin">(rén)</span>
+        </div>
+        <div class="char-context" id="charContext">👤 Essere umano, individuo</div>
+      </div>
+
+      <div class="canvas-wrapper">
+        <canvas id="drawingCanvas" class="drawing-canvas" width="380" height="380"></canvas>
+      </div>
+
+      <div class="buttons-row">
+        <button class="btn btn-secondary" id="clearCanvasBtn">🗑️ Pulisci</button>
+        <button class="btn btn-secondary" id="showGuideBtn">👁️ Guida</button>
+        <button class="btn btn-secondary" id="speakBtn">🔊 Ascolta</button>
+        <button class="btn btn-primary" id="nextDrawBtn">➡️ Prossimo Carattere</button>
+      </div>
+    </div>
+  </div>
+
+  <script>
+    const ideograms = [
+      { char: '人', pinyin: 'rén', meaning: 'persona', context: '👤 Essere umano, individuo', expectedStrokes: 2 },
+      { char: '大', pinyin: 'dà', meaning: 'grande', context: '📏 Ampio, importante', expectedStrokes: 3 },
+      { char: '小', pinyin: 'xiǎo', meaning: 'piccolo', context: '🔍 Minuto, giovane', expectedStrokes: 3 },
+      { char: '山', pinyin: 'shān', meaning: 'montagna', context: '⛰️ Rilievo naturale', expectedStrokes: 3 },
+      { char: '日', pinyin: 'rì', meaning: 'sole', context: '☀️ Luce e giorno', expectedStrokes: 4 },
+      { char: '月', pinyin: 'yuè', meaning: 'luna', context: '🌙 Notte e mesi', expectedStrokes: 4 },
+      { char: '水', pinyin: 'shuǐ', meaning: 'acqua', context: '💧 Liquido vitale', expectedStrokes: 4 },
+      { char: '火', pinyin: 'huǒ', meaning: 'fuoco', context: '🔥 Calore e fiamma', expectedStrokes: 4 },
+      { char: '木', pinyin: 'mù', meaning: 'legno', context: '🌳 Albero e natura', expectedStrokes: 4 },
+      { char: '土', pinyin: 'tǔ', meaning: 'terra', context: '🌍 Suolo fertile', expectedStrokes: 3 }
+    ];
+
+    let gameState = {
+      completed: 0,
+      accuracy: 0,
+      strokes: 0,
+      currentChar: 0,
+      guideActive: true
+    };
+
+    const canvas = document.getElementById('drawingCanvas');
+    const ctx = canvas.getContext('2d');
+    let isDrawing = false;
+    let lastX = 0;
+    let lastY = 0;
+
+    function drawGrid() {
+      ctx.clearRect(0, 0, canvas.width, canvas.height);
+
+      // Mi Zi Ge grid
+      ctx.save();
+      ctx.strokeStyle = '#fee2e2';
+      ctx.lineWidth = 1.5;
+      ctx.strokeRect(0, 0, canvas.width, canvas.height);
+
+      ctx.setLineDash([5, 5]);
+      ctx.strokeStyle = '#fca5a5';
+
+      // Cross
+      ctx.beginPath();
+      ctx.moveTo(canvas.width / 2, 0);
+      ctx.lineTo(canvas.width / 2, canvas.height);
+      ctx.moveTo(0, canvas.height / 2);
+      ctx.lineTo(canvas.width, canvas.height / 2);
+      ctx.stroke();
+
+      // Diagonals
+      ctx.strokeStyle = '#fee2e2';
+      ctx.beginPath();
+      ctx.moveTo(0, 0);
+      ctx.lineTo(canvas.width, canvas.height);
+      ctx.moveTo(canvas.width, 0);
+      ctx.lineTo(0, canvas.height);
+      ctx.stroke();
+      ctx.restore();
+
+      // Guide character
+      if (gameState.guideActive) {
+        const item = ideograms[gameState.currentChar % ideograms.length];
+        ctx.save();
+        ctx.globalAlpha = 0.16;
+        ctx.font = '270px serif';
+        ctx.fillStyle = '#1c1917';
+        ctx.textAlign = 'center';
+        ctx.textBaseline = 'middle';
+        ctx.fillText(item.char, canvas.width / 2, canvas.height / 2 + 15);
+        ctx.restore();
+      }
+    }
+
+    function loadCurrentChar() {
+      const item = ideograms[gameState.currentChar % ideograms.length];
+      document.getElementById('drawCharacter').textContent = item.char;
+      document.getElementById('charMeaning').textContent = item.meaning;
+      document.getElementById('charPinyin').textContent = '(' + item.pinyin + ')';
+      document.getElementById('charContext').textContent = item.context;
+
+      gameState.strokes = 0;
+      updateStats();
+      drawGrid();
+    }
+
+    function updateStats() {
+      document.getElementById('drawCompleted').textContent = gameState.completed;
+      document.getElementById('drawAccuracy').textContent = gameState.accuracy + '%';
+      document.getElementById('drawStrokes').textContent = gameState.strokes;
+    }
+
+    function getPos(e) {
+      const rect = canvas.getBoundingClientRect();
+      const clientX = e.touches ? e.touches[0].clientX : e.clientX;
+      const clientY = e.touches ? e.touches[0].clientY : e.clientY;
+      const scaleX = canvas.width / rect.width;
+      const scaleY = canvas.height / rect.height;
+      return [
+        (clientX - rect.left) * scaleX,
+        (clientY - rect.top) * scaleY
+      ];
+    }
+
+    function startDraw(e) {
+      e.preventDefault();
+      isDrawing = true;
+      [lastX, lastY] = getPos(e);
+      gameState.strokes++;
+      updateStats();
+    }
+
+    function drawMove(e) {
+      if (!isDrawing) return;
+      e.preventDefault();
+      const [curX, curY] = getPos(e);
+
+      ctx.strokeStyle = '#b91c1c';
+      ctx.lineWidth = 10;
+      ctx.lineCap = 'round';
+      ctx.lineJoin = 'round';
+
+      ctx.beginPath();
+      ctx.moveTo(lastX, lastY);
+      ctx.lineTo(curX, curY);
+      ctx.stroke();
+
+      [lastX, lastY] = [curX, curY];
+    }
+
+    function endDraw() {
+      isDrawing = false;
+    }
+
+    canvas.addEventListener('mousedown', startDraw);
+    canvas.addEventListener('mousemove', drawMove);
+    canvas.addEventListener('mouseup', endDraw);
+    canvas.addEventListener('mouseleave', endDraw);
+
+    canvas.addEventListener('touchstart', startDraw, { passive: false });
+    canvas.addEventListener('touchmove', drawMove, { passive: false });
+    canvas.addEventListener('touchend', endDraw);
+
+    document.getElementById('clearCanvasBtn').onclick = () => {
+      gameState.strokes = 0;
+      updateStats();
+      drawGrid();
+    };
+
+    document.getElementById('showGuideBtn').onclick = () => {
+      gameState.guideActive = !gameState.guideActive;
+      document.getElementById('showGuideBtn').textContent = gameState.guideActive ? '👁️ Nascondi' : '👁️ Guida';
+      drawGrid();
+    };
+
+    document.getElementById('speakBtn').onclick = () => {
+      const item = ideograms[gameState.currentChar % ideograms.length];
+      if ('speechSynthesis' in window) {
+        window.speechSynthesis.cancel();
+        const u = new SpeechSynthesisUtterance(item.char);
+        u.lang = 'zh-CN';
+        window.speechSynthesis.speak(u);
+      }
+    };
+
+    document.getElementById('nextDrawBtn').onclick = () => {
+      const item = ideograms[gameState.currentChar % ideograms.length];
+      const diff = Math.abs(gameState.strokes - item.expectedStrokes);
+      const acc = Math.max(30, 100 - diff * 15);
+
+      gameState.completed++;
+      gameState.accuracy = gameState.completed === 1 ? acc : Math.round((gameState.accuracy + acc) / 2);
+      gameState.currentChar++;
+
+      const toast = document.getElementById('feedbackToast');
+      toast.textContent = `Carattere ${item.char} completato! Precisione: ${acc}%`;
+      toast.style.display = 'block';
+      setTimeout(() => toast.style.display = 'none', 2500);
+
+      loadCurrentChar();
+    };
+
+    loadCurrentChar();
+  </script>
+</body>
+</html>

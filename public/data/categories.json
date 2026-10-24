@@ -1,0 +1,65 @@
+[
+  {
+    "id": "tutti",
+    "name": "Tutti",
+    "icon": "✨",
+    "description": "Tutti gli ideogrammi del catalogo",
+    "color": "from-amber-500 to-red-500"
+  },
+  {
+    "id": "natura",
+    "name": "Natura & Elementi",
+    "icon": "🌿",
+    "description": "Sole, luna, acqua, fuoco, terra, alberi, montagne e fenomeni celesti",
+    "color": "from-emerald-500 to-teal-600"
+  },
+  {
+    "id": "corpo",
+    "name": "Uomo & Corpo",
+    "icon": "👤",
+    "description": "Persone, parti del corpo, famiglia e relazioni umane",
+    "color": "from-rose-500 to-orange-500"
+  },
+  {
+    "id": "numeri",
+    "name": "Numeri & Quantità",
+    "icon": "🔢",
+    "description": "Cifre fondamentali, unità e moltiplicatori tradizionali",
+    "color": "from-blue-500 to-indigo-600"
+  },
+  {
+    "id": "spazio",
+    "name": "Spazio & Dimensioni",
+    "icon": "🧭",
+    "description": "Direzioni, grandezze, orientamento e posizioni relative",
+    "color": "from-violet-500 to-purple-600"
+  },
+  {
+    "id": "animali",
+    "name": "Animali",
+    "icon": "🐾",
+    "description": "Fauna classica, animali domestici, uccelli e creature leggendarie",
+    "color": "from-amber-600 to-yellow-600"
+  },
+  {
+    "id": "cibo",
+    "name": "Cibo & Cucina",
+    "icon": "🍜",
+    "description": "Riso, tè, carne, alimentazione e bevande tradizionali",
+    "color": "from-orange-500 to-amber-600"
+  },
+  {
+    "id": "tempo",
+    "name": "Tempo & Stagioni",
+    "icon": "⏳",
+    "description": "Anni, mesi, stagioni, pioggia, vento e clima",
+    "color": "from-cyan-500 to-blue-600"
+  },
+  {
+    "id": "vita",
+    "name": "Società & Vita",
+    "icon": "🏮",
+    "description": "Oggetti, case, porte, cultura, scrittura e vita quotidiana",
+    "color": "from-red-600 to-pink-600"
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "id": "classic-drawing-html5",
+    "title": "Disegno Classico Oracolare",
+    "description": "Mini-gioco HTML5 autonomo per il disegno dei caratteri con guida semitrasparente.",
+    "icon": "🎨",
+    "path": "/assets/aistudio/disegno_caratteri_f6348661.html",
+    "type": "external_html",
+    "author": "Locale (public/assets)",
+    "tags": ["HTML5", "Disegno", "Touch", "Offline"]
+  },
+  {
+    "id": "audio-reflex-game",
+    "title": "Corsa dei Toni (Speed Reflex)",
+    "description": "Mini-gioco rapido esterno in HTML5/JS: ascolta il suono del carattere e seleziona il simbolo prima dello scadere del tempo.",
+    "icon": "⚡",
+    "path": "/games/speed-reflex/index.html",
+    "type": "external_html",
+    "author": "Locale (public/games)",
+    "tags": ["HTML5", "Audio", "Riflessi", "Pinyin"]
+  }
+]

@@ -1,0 +1,171 @@
+[
+  {
+    "id": "yi",
+    "char": "一",
+    "pinyin": "yī",
+    "meaning": "uno / primo",
+    "category": "numeri",
+    "explanation": "Un singolo tratto orizzontale continuo tracciato con il dito o pennello. È la radice prima del conteggio e simboleggia l'unità cosmica fondamentale (il Tao primordiale).",
+    "mnemonic": "Un singolo bastoncino orizzontale o dito steso.",
+    "radical": "一",
+    "strokesCount": 1,
+    "level": 1,
+    "strokes": [
+      "M50 150 L250 150"
+    ],
+    "words": [
+      {
+        "hanzi": "一个人",
+        "pinyin": "yí gè rén",
+        "translation": "una persona sola"
+      },
+      {
+        "hanzi": "第一",
+        "pinyin": "dì-yī",
+        "translation": "primo / in cima alla classifica"
+      },
+      {
+        "hanzi": "一共",
+        "pinyin": "yígòng",
+        "translation": "in totale"
+      }
+    ]
+  },
+  {
+    "id": "er",
+    "char": "二",
+    "pinyin": "èr",
+    "meaning": "due / secondo",
+    "category": "numeri",
+    "explanation": "Due tratti orizzontali paralleli: la linea superiore rappresenta il Cielo (Yang), quella inferiore più lunga rappresenta la Terra (Yin).",
+    "mnemonic": "Due bastoncini da calcolo posati parallelamente sul tavolo.",
+    "radical": "二",
+    "strokesCount": 2,
+    "level": 1,
+    "strokes": [
+      "M80 100 L220 100",
+      "M50 200 L250 200"
+    ],
+    "words": [
+      {
+        "hanzi": "二月",
+        "pinyin": "èryuè",
+        "translation": "febbraio (secondo mese)"
+      },
+      {
+        "hanzi": "第二",
+        "pinyin": "dì-èr",
+        "translation": "secondo"
+      },
+      {
+        "hanzi": "二十",
+        "pinyin": "èrshí",
+        "translation": "venti"
+      }
+    ]
+  },
+  {
+    "id": "san",
+    "char": "三",
+    "pinyin": "sān",
+    "meaning": "tre / terzo",
+    "category": "numeri",
+    "explanation": "Tre linee orizzontali sovrapposte: nella cosmologia taoista rappresentano la triade sacra di Cielo, Uomo e Terra uniti dall'armonia.",
+    "mnemonic": "Tre strisce orizzontali per contare fino a tre.",
+    "radical": "一",
+    "strokesCount": 3,
+    "level": 1,
+    "strokes": [
+      "M80 85 L220 85",
+      "M95 150 L205 150",
+      "M50 215 L250 215"
+    ],
+    "words": [
+      {
+        "hanzi": "三人行",
+        "pinyin": "sān rén xíng",
+        "translation": "camminando in tre (proverbio confuciano)"
+      },
+      {
+        "hanzi": "三月",
+        "pinyin": "sānyuè",
+        "translation": "marzo (terzo mese)"
+      },
+      {
+        "hanzi": "三十",
+        "pinyin": "sānshí",
+        "translation": "trenta"
+      }
+    ]
+  },
+  {
+    "id": "shi",
+    "char": "十",
+    "pinyin": "shí",
+    "meaning": "dieci / completezza",
+    "category": "numeri",
+    "explanation": "La perfetta intersezione di un tratto orizzontale e uno verticale forma una croce: indica l'unione dei quattro punti cardinali e la pienezza decimale.",
+    "mnemonic": "Una croce che racchiude tutte le direzioni: dieci su dieci.",
+    "radical": "十",
+    "strokesCount": 2,
+    "level": 1,
+    "strokes": [
+      "M60 150 L240 150",
+      "M150 50 L150 250"
+    ],
+    "words": [
+      {
+        "hanzi": "十全十美",
+        "pinyin": "shí quán shí měi",
+        "translation": "perfetto sotto ogni aspetto"
+      },
+      {
+        "hanzi": "十分",
+        "pinyin": "shífēn",
+        "translation": "molto / al cento per cento"
+      },
+      {
+        "hanzi": "十一",
+        "pinyin": "shíyī",
+        "translation": "undici"
+      }
+    ]
+  },
+  {
+    "id": "bai",
+    "char": "百",
+    "pinyin": "bǎi",
+    "meaning": "cento / molti",
+    "category": "numeri",
+    "explanation": "Composto dal tratto 'uno' (一) in cima e 'bianco' (白) in basso. Nelle lingue cinesi 'cento' simboleggia anche una moltitudine numerosa.",
+    "mnemonic": "Una linea superiore sopra il carattere 'bianco' per arrivare a cento.",
+    "radical": "白",
+    "strokesCount": 6,
+    "level": 2,
+    "strokes": [
+      "M60 70 L240 70",
+      "M150 70 L140 120",
+      "M95 120 L95 235",
+      "M95 120 L205 120 L205 235",
+      "M95 175 L205 175",
+      "M95 235 L205 235"
+    ],
+    "words": [
+      {
+        "hanzi": "百姓",
+        "pinyin": "bǎixìng",
+        "translation": "il popolo (i cento cognomi)"
+      },
+      {
+        "hanzi": "百分之百",
+        "pinyin": "bǎi fēn zhī bǎi",
+        "translation": "100% / certezza totale"
+      },
+      {
+        "hanzi": "百货",
+        "pinyin": "bǎihuò",
+        "translation": "grandi magazzini (cento merci)"
+      }
+    ]
+  }
+]

@@ -1,0 +1,243 @@
+[
+  {
+    "id": "ren",
+    "char": "人",
+    "pinyin": "rén",
+    "meaning": "persona / uomo",
+    "category": "corpo",
+    "explanation": "Rappresenta una persona vista di profilo nell'atto di camminare, con due gambe aperte che poggiano stabilmente al suolo. Nelle antiche iscrizioni oracolari simboleggiava la dignità e la postura eretta dell'essere umano.",
+    "mnemonic": "Due gambe che avanzano con passo deciso.",
+    "radical": "人",
+    "strokesCount": 2,
+    "level": 1,
+    "strokes": [
+      "M140 40 Q130 90 90 220",
+      "M125 100 Q150 160 210 220"
+    ],
+    "words": [
+      {
+        "hanzi": "大人",
+        "pinyin": "dàrén",
+        "translation": "adulto / persona grande"
+      },
+      {
+        "hanzi": "人口",
+        "pinyin": "rénkǒu",
+        "translation": "popolazione (lett. persone-bocche)"
+      },
+      {
+        "hanzi": "工人",
+        "pinyin": "gōngrén",
+        "translation": "operaio / lavoratore"
+      }
+    ]
+  },
+  {
+    "id": "kou",
+    "char": "口",
+    "pinyin": "kǒu",
+    "meaning": "bocca / apertura",
+    "category": "corpo",
+    "explanation": "Disegno stilizzato di una bocca umana spalancata con le labbra ben definite. Per estensione indica ogni varco, entrata o orifizio.",
+    "mnemonic": "Un rettangolo che imita la forma di una bocca che parla o mangia.",
+    "radical": "口",
+    "strokesCount": 3,
+    "level": 1,
+    "strokes": [
+      "M80 80 L80 220",
+      "M80 80 L220 80 L220 220",
+      "M80 220 L220 220"
+    ],
+    "words": [
+      {
+        "hanzi": "门口",
+        "pinyin": "ménkǒu",
+        "translation": "ingresso / soglia di casa"
+      },
+      {
+        "hanzi": "出口",
+        "pinyin": "chūkǒu",
+        "translation": "uscita"
+      },
+      {
+        "hanzi": "口水",
+        "pinyin": "kǒushuǐ",
+        "translation": "saliva"
+      }
+    ]
+  },
+  {
+    "id": "mu_eye",
+    "char": "目",
+    "pinyin": "mù",
+    "meaning": "occhio / sguardo",
+    "category": "corpo",
+    "explanation": "In origine era disegnato orizzontalmente come il contorno di un occhio con la pupilla e l'iride al centro. Con l'adozione del pennello è stato ruotato in verticale per comodità di scrittura.",
+    "mnemonic": "Un occhio ruotato in verticale con le linee dell'iride interna.",
+    "radical": "目",
+    "strokesCount": 5,
+    "level": 1,
+    "strokes": [
+      "M95 50 L95 240",
+      "M95 50 L205 50 L205 240",
+      "M95 110 L205 110",
+      "M95 175 L205 175",
+      "M95 240 L205 240"
+    ],
+    "words": [
+      {
+        "hanzi": "目光",
+        "pinyin": "mùguāng",
+        "translation": "sguardo / attenzione"
+      },
+      {
+        "hanzi": "目的",
+        "pinyin": "mùdì",
+        "translation": "scopo / bersaglio da centrare"
+      },
+      {
+        "hanzi": "节目录",
+        "pinyin": "jiémù",
+        "translation": "programma / indice"
+      }
+    ]
+  },
+  {
+    "id": "shou",
+    "char": "手",
+    "pinyin": "shǒu",
+    "meaning": "mano / abilità",
+    "category": "corpo",
+    "explanation": "Pittogramma di una mano aperta con cinque dita: il pollice a sinistra, il palmo e il polso curvo sottostante.",
+    "mnemonic": "Una mano aperta vista di fronte con il pollice e il polso.",
+    "radical": "手",
+    "strokesCount": 4,
+    "level": 1,
+    "strokes": [
+      "M195 55 L90 85",
+      "M85 130 L215 130",
+      "M65 175 L235 175",
+      "M150 50 L150 220 Q150 240 125 230"
+    ],
+    "words": [
+      {
+        "hanzi": "手机",
+        "pinyin": "shǒujī",
+        "translation": "telefono cellulare (macchina a mano)"
+      },
+      {
+        "hanzi": "双手",
+        "pinyin": "shuāngshǒu",
+        "translation": "entrambe le mani"
+      },
+      {
+        "hanzi": "水手",
+        "pinyin": "shuǐshǒu",
+        "translation": "marinaio"
+      }
+    ]
+  },
+  {
+    "id": "xin",
+    "char": "心",
+    "pinyin": "xīn",
+    "meaning": "cuore / mente",
+    "category": "corpo",
+    "explanation": "Antico disegno anatomico del cuore con le sue concavità e i vasi sanguigni. Per la cultura cinese il cuore è sia la sede dei sentimenti sia il centro del pensiero e dell'intelletto.",
+    "mnemonic": "La camera cardiaca pulsante circondata da battiti e gocce di vita.",
+    "radical": "心",
+    "strokesCount": 4,
+    "level": 1,
+    "strokes": [
+      "M85 125 Q75 145 70 170",
+      "M110 110 Q120 220 180 220 Q215 220 230 180",
+      "M145 105 Q150 125 155 140",
+      "M210 100 Q215 120 220 135"
+    ],
+    "words": [
+      {
+        "hanzi": "心里",
+        "pinyin": "xīnlǐ",
+        "translation": "nel profondo del cuore / dentro di sé"
+      },
+      {
+        "hanzi": "用心",
+        "pinyin": "yòngxīn",
+        "translation": "attento / diligente"
+      },
+      {
+        "hanzi": "爱心",
+        "pinyin": "àixīn",
+        "translation": "amore / compassione"
+      }
+    ]
+  },
+  {
+    "id": "nv",
+    "char": "女",
+    "pinyin": "nǚ",
+    "meaning": "donna / femmina",
+    "category": "corpo",
+    "explanation": "Rappresenta una donna inginocchiata con le mani incrociate sul petto in segno di grazia e quiete domestica secondo la postura cerimoniale classica.",
+    "mnemonic": "Una figura seduta con le braccia incrociate in avanti con grazia.",
+    "radical": "女",
+    "strokesCount": 3,
+    "level": 1,
+    "strokes": [
+      "M145 50 L115 140 Q150 160 195 220",
+      "M190 90 Q150 140 70 220",
+      "M60 140 L240 140"
+    ],
+    "words": [
+      {
+        "hanzi": "女人",
+        "pinyin": "nǚrén",
+        "translation": "donna adulta"
+      },
+      {
+        "hanzi": "女儿",
+        "pinyin": "nǚ'ér",
+        "translation": "figlia femmina"
+      },
+      {
+        "hanzi": "美女",
+        "pinyin": "měinǚ",
+        "translation": "bella ragazza"
+      }
+    ]
+  },
+  {
+    "id": "zi_child",
+    "char": "子",
+    "pinyin": "zǐ",
+    "meaning": "bambino / figlio / maestro",
+    "category": "corpo",
+    "explanation": "Raffigura un neonato o bimbo in fasce con la testa rotonda, le braccine che gesticolano vivaci e il corpo avvolto in un drappo protettivo.",
+    "mnemonic": "La testolina di un bimbo con le braccia spalancate aperte al mondo.",
+    "radical": "子",
+    "strokesCount": 3,
+    "level": 1,
+    "strokes": [
+      "M100 70 L200 70 L140 120",
+      "M140 120 Q160 150 155 220 Q150 240 130 225",
+      "M65 140 L235 140"
+    ],
+    "words": [
+      {
+        "hanzi": "儿子",
+        "pinyin": "érzi",
+        "translation": "figlio maschio"
+      },
+      {
+        "hanzi": "孩子",
+        "pinyin": "háizi",
+        "translation": "bambino"
+      },
+      {
+        "hanzi": "孔子",
+        "pinyin": "Kǒngzǐ",
+        "translation": "Confucio (Maestro Kong)"
+      }
+    ]
+  }
+]
