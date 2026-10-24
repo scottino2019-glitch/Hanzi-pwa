@@ -18,5 +18,25 @@
     "type": "external_html",
     "author": "Locale (public/games)",
     "tags": ["HTML5", "Audio", "Riflessi", "Pinyin"]
-  }
+  },
+    {
+    "id": "ideo15",
+    "title": "Gioco del 15 con ideogramma",
+    "description": "Ricostruisci il caratte.",
+    "icon": "🈸",
+    "path": "/games/ideo15/index.html",
+    "type": "external_html",
+    "author": "Locale (public/games)",
+    "tags": ["HTML5", "Rompicapo", "Riflessi", "Ideogrammi"]
+    },
+    {
+    "id": "rompicapo-15",
+    "title": "Gioco del 15",
+    "description": "Gioco classico del 15 con numeri cinesi.",
+    "icon": "⚡",
+    "path": "/games/rompicapo-15/index.html",
+    "type": "external_html",
+    "author": "Locale (public/games)",
+    "tags": ["HTML5", "Rompicapo", "Riflessi", "Ideogrammi"]
+    }
 ]
